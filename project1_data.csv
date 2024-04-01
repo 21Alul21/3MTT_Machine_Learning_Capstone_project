@@ -1,0 +1,1026 @@
+age,sex,cp,trestbps,chol,fbs,restecg,thalach,exang,oldpeak,slope,ca,thal,target
+52.0,1,typical angina,125.0,212.0,less than 120mg/ml,ST-T wave abnormality,168.0,no,1.0,downsloping,2.0,,0
+53.0,1,typical angina,140.0,203.0,greater than 120mg/ml,normal,155.0,yes,3.1,upsloping,0.0,,0
+70.0,1,typical angina,145.0,174.0,less than 120mg/ml,ST-T wave abnormality,125.0,yes,2.6,,0.0,,0
+61.0,1,typical angina,148.0,203.0,less than 120mg/ml,ST-T wave abnormality,161.0,no,0.0,downsloping,1.0,,0
+62.0,0,typical angina,138.0,294.0,greater than 120mg/ml,ST-T wave abnormality,,,1.9,flat,3.0,,0
+,0,typical angina,100.0,248.0,less than 120mg/ml,normal,122.0,no,1.0,flat,0.0,reversible defect,1
+58.0,1,typical angina,114.0,318.0,less than 120mg/ml,left ventricular hypertrophy,140.0,no,4.4,upsloping,3.0,fixed defect,0
+55.0,1,typical angina,160.0,289.0,less than 120mg/ml,normal,145.0,yes,0.8,flat,1.0,,0
+46.0,1,typical angina,120.0,249.0,less than 120mg/ml,normal,144.0,no,0.8,downsloping,0.0,,0
+54.0,1,typical angina,122.0,286.0,less than 120mg/ml,normal,116.0,yes,3.2,flat,2.0,reversible defect,0
+71.0,0,typical angina,112.0,149.0,less than 120mg/ml,ST-T wave abnormality,125.0,no,1.6,flat,0.0,reversible defect,1
+43.0,0,typical angina,132.0,341.0,greater than 120mg/ml,normal,136.0,yes,3.0,flat,0.0,,0
+34.0,0,atypical angina,118.0,210.0,less than 120mg/ml,ST-T wave abnormality,,no,0.7,downsloping,0.0,reversible defect,1
+51.0,1,typical angina,140.0,298.0,less than 120mg/ml,ST-T wave abnormality,122.0,yes,4.2,flat,3.0,,0
+52.0,1,typical angina,128.0,204.0,greater than 120mg/ml,ST-T wave abnormality,156.0,yes,1.0,flat,0.0,normal,0
+34.0,0,atypical angina,118.0,210.0,less than 120mg/ml,ST-T wave abnormality,192.0,no,0.7,downsloping,0.0,reversible defect,1
+51.0,0,non-anginal pain,140.0,308.0,less than 120mg/ml,normal,,no,1.5,downsloping,1.0,reversible defect,1
+,1,typical angina,124.0,266.0,less than 120mg/ml,normal,109.0,yes,2.2,flat,1.0,,0
+50.0,0,atypical angina,120.0,244.0,less than 120mg/ml,ST-T wave abnormality,162.0,no,1.1,downsloping,0.0,reversible defect,1
+58.0,1,non-anginal pain,140.0,211.0,greater than 120mg/ml,normal,165.0,no,0.0,downsloping,0.0,reversible defect,1
+60.0,1,non-anginal pain,140.0,185.0,less than 120mg/ml,normal,155.0,no,3.0,flat,0.0,reversible defect,0
+67.0,0,typical angina,106.0,223.0,less than 120mg/ml,ST-T wave abnormality,142.0,no,0.3,downsloping,2.0,reversible defect,1
+,1,typical angina,104.0,208.0,less than 120mg/ml,normal,148.0,yes,3.0,flat,0.0,reversible defect,1
+63.0,0,non-anginal pain,135.0,252.0,less than 120mg/ml,normal,172.0,no,0.0,downsloping,0.0,reversible defect,1
+42.0,0,non-anginal pain,120.0,209.0,less than 120mg/ml,ST-T wave abnormality,173.0,no,0.0,flat,0.0,reversible defect,1
+61.0,0,typical angina,145.0,307.0,less than 120mg/ml,normal,146.0,yes,1.0,flat,0.0,,0
+44.0,,non-anginal pain,130.0,233.0,less than 120mg/ml,ST-T wave abnormality,179.0,yes,0.4,downsloping,0.0,reversible defect,1
+58.0,0,atypical angina,136.0,319.0,greater than 120mg/ml,normal,152.0,no,0.0,downsloping,2.0,reversible defect,0
+56.0,1,non-anginal pain,130.0,256.0,greater than 120mg/ml,normal,142.0,yes,0.6,flat,1.0,fixed defect,0
+55.0,0,typical angina,180.0,327.0,less than 120mg/ml,left ventricular hypertrophy,117.0,yes,3.4,flat,0.0,reversible defect,0
+44.0,1,typical angina,120.0,169.0,,ST-T wave abnormality,144.0,yes,2.8,upsloping,0.0,fixed defect,0
+50.0,0,atypical angina,120.0,244.0,less than 120mg/ml,ST-T wave abnormality,162.0,no,1.1,downsloping,0.0,reversible defect,1
+57.0,,typical angina,,131.0,less than 120mg/ml,ST-T wave abnormality,115.0,yes,1.2,flat,1.0,,0
+70.0,1,non-anginal pain,,269.0,less than 120mg/ml,ST-T wave abnormality,112.0,,2.9,flat,1.0,,0
+50.0,1,non-anginal pain,129.0,196.0,less than 120mg/ml,ST-T wave abnormality,163.0,no,0.0,downsloping,0.0,reversible defect,1
+46.0,1,non-anginal pain,150.0,231.0,less than 120mg/ml,ST-T wave abnormality,147.0,no,3.6,flat,0.0,reversible defect,0
+51.0,1,asymptomatic,125.0,213.0,less than 120mg/ml,normal,125.0,yes,1.4,downsloping,1.0,reversible defect,1
+59.0,1,typical angina,138.0,271.0,,normal,182.0,no,0.0,downsloping,0.0,reversible defect,1
+64.0,1,typical angina,128.0,263.0,less than 120mg/ml,ST-T wave abnormality,105.0,yes,0.2,flat,1.0,,1
+57.0,1,non-anginal pain,128.0,229.0,less than 120mg/ml,normal,150.0,,0.4,flat,1.0,,0
+65.0,0,non-anginal pain,160.0,360.0,less than 120mg/ml,normal,151.0,no,0.8,downsloping,,reversible defect,1
+54.0,1,non-anginal pain,120.0,258.0,less than 120mg/ml,normal,147.0,,0.4,flat,0.0,,1
+61.0,0,typical angina,130.0,330.0,less than 120mg/ml,normal,169.0,no,0.0,downsloping,0.0,reversible defect,0
+46.0,1,typical angina,120.0,249.0,less than 120mg/ml,normal,144.0,no,0.8,downsloping,0.0,,0
+55.0,0,atypical angina,132.0,342.0,less than 120mg/ml,ST-T wave abnormality,166.0,no,1.2,downsloping,0.0,reversible defect,1
+42.0,1,typical angina,140.0,226.0,less than 120mg/ml,ST-T wave abnormality,178.0,no,0.0,downsloping,0.0,reversible defect,1
+41.0,1,atypical angina,135.0,203.0,less than 120mg/ml,ST-T wave abnormality,132.0,no,0.0,flat,0.0,fixed defect,1
+66.0,0,typical angina,178.0,228.0,greater than 120mg/ml,ST-T wave abnormality,165.0,yes,1.0,flat,2.0,,0
+66.0,0,non-anginal pain,146.0,278.0,less than 120mg/ml,normal,152.0,no,0.0,flat,1.0,reversible defect,1
+60.0,1,typical angina,117.0,230.0,greater than 120mg/ml,ST-T wave abnormality,160.0,yes,1.4,downsloping,2.0,,0
+58.0,0,asymptomatic,150.0,283.0,greater than 120mg/ml,normal,162.0,no,1.0,downsloping,0.0,reversible defect,1
+57.0,0,typical angina,140.0,241.0,less than 120mg/ml,ST-T wave abnormality,123.0,yes,0.2,flat,0.0,,0
+38.0,1,non-anginal pain,138.0,175.0,less than 120mg/ml,ST-T wave abnormality,173.0,no,0.0,downsloping,4.0,reversible defect,1
+49.0,1,non-anginal pain,120.0,188.0,less than 120mg/ml,ST-T wave abnormality,139.0,no,2.0,flat,3.0,,0
+55.0,1,typical angina,140.0,217.0,less than 120mg/ml,ST-T wave abnormality,111.0,yes,5.6,upsloping,0.0,,0
+55.0,1,typical angina,140.0,217.0,less than 120mg/ml,ST-T wave abnormality,111.0,yes,5.6,upsloping,0.0,,0
+,1,asymptomatic,120.0,,less than 120mg/ml,normal,162.0,no,1.9,flat,0.0,,1
+48.0,1,atypical angina,130.0,245.0,less than 120mg/ml,normal,180.0,no,0.2,flat,0.0,reversible defect,1
+67.0,1,non-anginal pain,152.0,212.0,less than 120mg/ml,normal,150.0,no,0.8,flat,0.0,,0
+57.0,1,atypical angina,154.0,232.0,less than 120mg/ml,normal,164.0,no,0.0,downsloping,1.0,reversible defect,0
+29.0,1,atypical angina,130.0,204.0,less than 120mg/ml,normal,202.0,no,0.0,downsloping,0.0,reversible defect,1
+66.0,0,non-anginal pain,146.0,278.0,less than 120mg/ml,normal,152.0,no,0.0,,1.0,reversible defect,1
+67.0,1,typical angina,100.0,299.0,less than 120mg/ml,normal,125.0,yes,0.9,flat,,reversible defect,0
+59.0,1,,150.0,212.0,greater than 120mg/ml,ST-T wave abnormality,157.0,no,1.6,downsloping,0.0,reversible defect,1
+29.0,1,atypical angina,130.0,204.0,less than 120mg/ml,normal,202.0,no,0.0,downsloping,0.0,reversible defect,1
+59.0,1,asymptomatic,170.0,288.0,less than 120mg/ml,normal,159.0,no,0.2,flat,0.0,,0
+53.0,1,non-anginal pain,130.0,197.0,greater than 120mg/ml,normal,152.0,no,1.2,upsloping,0.0,reversible defect,1
+42.0,1,typical angina,136.0,315.0,less than 120mg/ml,ST-T wave abnormality,125.0,yes,1.8,flat,0.0,fixed defect,0
+37.0,0,non-anginal pain,120.0,215.0,less than 120mg/ml,ST-T wave abnormality,170.0,no,0.0,downsloping,0.0,reversible defect,1
+62.0,0,typical angina,160.0,164.0,less than 120mg/ml,normal,145.0,no,6.2,upsloping,3.0,,0
+59.0,1,typical angina,170.0,326.0,less than 120mg/ml,normal,140.0,,3.4,upsloping,0.0,,0
+61.0,1,typical angina,140.0,207.0,less than 120mg/ml,normal,138.0,yes,1.9,downsloping,1.0,,0
+56.0,1,typical angina,125.0,249.0,greater than 120mg/ml,normal,144.0,yes,1.2,flat,1.0,reversible defect,0
+59.0,1,typical angina,140.0,177.0,less than 120mg/ml,ST-T wave abnormality,162.0,yes,0.0,downsloping,1.0,,0
+48.0,1,typical angina,130.0,256.0,greater than 120mg/ml,normal,150.0,yes,0.0,downsloping,2.0,,0
+47.0,1,non-anginal pain,138.0,257.0,less than 120mg/ml,normal,156.0,no,0.0,downsloping,,reversible defect,1
+48.0,1,non-anginal pain,124.0,255.0,greater than 120mg/ml,ST-T wave abnormality,175.0,no,0.0,downsloping,2.0,reversible defect,1
+63.0,1,typical angina,140.0,187.0,less than 120mg/ml,normal,144.0,yes,4.0,downsloping,2.0,,0
+52.0,1,atypical angina,134.0,201.0,less than 120mg/ml,ST-T wave abnormality,158.0,no,0.8,downsloping,,reversible defect,1
+52.0,1,atypical angina,134.0,201.0,less than 120mg/ml,ST-T wave abnormality,158.0,no,0.8,downsloping,1.0,reversible defect,1
+50.0,1,non-anginal pain,140.0,233.0,less than 120mg/ml,,163.0,no,0.6,flat,1.0,,0
+49.0,1,non-anginal pain,118.0,149.0,less than 120mg/ml,normal,126.0,no,0.8,downsloping,3.0,reversible defect,0
+46.0,1,non-anginal pain,150.0,231.0,less than 120mg/ml,ST-T wave abnormality,147.0,no,3.6,flat,0.0,reversible defect,0
+38.0,1,non-anginal pain,138.0,175.0,less than 120mg/ml,ST-T wave abnormality,173.0,no,0.0,downsloping,4.0,reversible defect,1
+37.0,0,non-anginal pain,120.0,215.0,less than 120mg/ml,ST-T wave abnormality,170.0,no,0.0,downsloping,,reversible defect,1
+44.0,1,atypical angina,120.0,220.0,less than 120mg/ml,ST-T wave abnormality,170.0,no,0.0,downsloping,0.0,reversible defect,1
+58.0,1,non-anginal pain,140.0,211.0,greater than 120mg/ml,normal,165.0,no,0.0,downsloping,0.0,reversible defect,1
+59.0,0,typical angina,174.0,249.0,less than 120mg/ml,ST-T wave abnormality,143.0,yes,0.0,flat,0.0,reversible defect,0
+62.0,0,typical angina,140.0,268.0,less than 120mg/ml,normal,160.0,no,3.6,upsloping,2.0,reversible defect,0
+68.0,1,typical angina,144.0,193.0,greater than 120mg/ml,ST-T wave abnormality,141.0,no,3.4,flat,2.0,,0
+54.0,0,non-anginal pain,108.0,267.0,less than 120mg/ml,normal,167.0,no,0.0,downsloping,0.0,reversible defect,1
+62.0,0,typical angina,124.0,209.0,less than 120mg/ml,ST-T wave abnormality,163.0,no,0.0,downsloping,0.0,reversible defect,1
+63.0,1,typical angina,140.0,187.0,less than 120mg/ml,normal,144.0,yes,4.0,downsloping,2.0,,0
+,1,typical angina,120.0,169.0,less than 120mg/ml,ST-T wave abnormality,144.0,yes,2.8,upsloping,0.0,fixed defect,0
+62.0,1,atypical angina,128.0,208.0,greater than 120mg/ml,normal,140.0,no,0.0,downsloping,0.0,reversible defect,1
+45.0,0,typical angina,138.0,236.0,less than 120mg/ml,normal,152.0,yes,0.2,flat,0.0,reversible defect,1
+57.0,0,typical angina,128.0,,less than 120mg/ml,normal,159.0,no,0.0,downsloping,1.0,reversible defect,1
+53.0,1,typical angina,123.0,282.0,less than 120mg/ml,ST-T wave abnormality,,yes,2.0,flat,2.0,,0
+65.0,1,typical angina,110.0,248.0,less than 120mg/ml,normal,158.0,no,,downsloping,2.0,fixed defect,0
+76.0,0,non-anginal pain,140.0,197.0,less than 120mg/ml,left ventricular hypertrophy,116.0,no,1.1,flat,0.0,reversible defect,1
+43.0,0,non-anginal pain,122.0,213.0,less than 120mg/ml,ST-T wave abnormality,165.0,no,0.2,flat,0.0,reversible defect,1
+57.0,1,non-anginal pain,150.0,126.0,greater than 120mg/ml,ST-T wave abnormality,173.0,no,0.2,downsloping,1.0,,1
+54.0,1,atypical angina,108.0,309.0,less than 120mg/ml,ST-T wave abnormality,156.0,no,0.0,downsloping,0.0,,1
+47.0,1,non-anginal pain,138.0,257.0,less than 120mg/ml,normal,156.0,no,0.0,downsloping,0.0,reversible defect,1
+52.0,1,asymptomatic,118.0,186.0,less than 120mg/ml,normal,190.0,no,0.0,flat,0.0,fixed defect,1
+47.0,1,typical angina,110.0,275.0,less than 120mg/ml,normal,118.0,yes,1.0,flat,1.0,reversible defect,0
+51.0,1,typical angina,140.0,299.0,less than 120mg/ml,ST-T wave abnormality,,yes,1.6,downsloping,0.0,,0
+62.0,1,atypical angina,120.0,281.0,less than 120mg/ml,normal,103.0,no,1.4,flat,1.0,,0
+40.0,1,typical angina,152.0,223.0,less than 120mg/ml,ST-T wave abnormality,181.0,no,0.0,downsloping,0.0,,0
+54.0,1,typical angina,110.0,206.0,less than 120mg/ml,normal,108.0,yes,0.0,flat,1.0,reversible defect,0
+44.0,1,typical angina,110.0,197.0,less than 120mg/ml,normal,177.0,no,0.0,downsloping,1.0,reversible defect,0
+53.0,1,typical angina,142.0,226.0,less than 120mg/ml,normal,111.0,yes,0.0,downsloping,0.0,,1
+48.0,1,typical angina,130.0,256.0,greater than 120mg/ml,normal,150.0,yes,0.0,,2.0,,0
+57.0,1,typical angina,110.0,335.0,less than 120mg/ml,ST-T wave abnormality,143.0,yes,3.0,flat,1.0,,0
+59.0,1,non-anginal pain,126.0,218.0,greater than 120mg/ml,ST-T wave abnormality,134.0,no,2.2,flat,1.0,fixed defect,0
+61.0,0,typical angina,145.0,307.0,less than 120mg/ml,normal,146.0,yes,1.0,flat,0.0,,0
+63.0,1,typical angina,130.0,254.0,less than 120mg/ml,normal,147.0,no,1.4,flat,1.0,,0
+43.0,1,typical angina,120.0,177.0,less than 120mg/ml,normal,120.0,yes,2.5,flat,0.0,,0
+29.0,1,atypical angina,130.0,204.0,less than 120mg/ml,normal,202.0,no,0.0,downsloping,0.0,reversible defect,1
+42.0,1,atypical angina,120.0,295.0,less than 120mg/ml,ST-T wave abnormality,162.0,no,0.0,downsloping,0.0,reversible defect,1
+54.0,1,atypical angina,108.0,309.0,less than 120mg/ml,ST-T wave abnormality,156.0,no,0.0,downsloping,0.0,,1
+44.0,1,typical angina,120.0,169.0,less than 120mg/ml,ST-T wave abnormality,144.0,yes,2.8,upsloping,0.0,fixed defect,0
+60.0,1,typical angina,145.0,282.0,less than 120mg/ml,normal,142.0,yes,2.8,,2.0,,0
+65.0,0,non-anginal pain,140.0,417.0,greater than 120mg/ml,normal,157.0,no,0.8,,1.0,reversible defect,1
+61.0,1,typical angina,120.0,260.0,less than 120mg/ml,ST-T wave abnormality,140.0,yes,3.6,flat,1.0,,0
+60.0,0,asymptomatic,150.0,240.0,less than 120mg/ml,ST-T wave abnormality,171.0,no,0.9,downsloping,0.0,reversible defect,1
+66.0,1,typical angina,120.0,302.0,less than 120mg/ml,normal,151.0,no,0.4,,0.0,reversible defect,1
+53.0,1,non-anginal pain,130.0,197.0,greater than 120mg/ml,normal,152.0,no,1.2,upsloping,0.0,reversible defect,1
+52.0,1,non-anginal pain,138.0,223.0,less than 120mg/ml,ST-T wave abnormality,169.0,no,0.0,downsloping,4.0,reversible defect,1
+57.0,,typical angina,,192.0,less than 120mg/ml,ST-T wave abnormality,148.0,no,0.4,flat,0.0,fixed defect,1
+60.0,0,asymptomatic,150.0,240.0,less than 120mg/ml,ST-T wave abnormality,171.0,no,0.9,downsloping,0.0,reversible defect,1
+51.0,0,non-anginal pain,130.0,256.0,less than 120mg/ml,,149.0,no,0.5,downsloping,0.0,reversible defect,1
+41.0,1,atypical angina,135.0,203.0,less than 120mg/ml,ST-T wave abnormality,132.0,no,0.0,flat,0.0,fixed defect,1
+50.0,1,non-anginal pain,129.0,196.0,less than 120mg/ml,ST-T wave abnormality,163.0,no,0.0,downsloping,0.0,reversible defect,1
+54.0,1,atypical angina,108.0,309.0,less than 120mg/ml,ST-T wave abnormality,156.0,no,0.0,downsloping,0.0,,1
+58.0,0,,170.0,225.0,greater than 120mg/ml,normal,146.0,yes,2.8,flat,2.0,fixed defect,0
+55.0,0,atypical angina,132.0,342.0,less than 120mg/ml,ST-T wave abnormality,166.0,no,1.2,downsloping,0.0,,1
+64.0,0,typical angina,180.0,325.0,less than 120mg/ml,ST-T wave abnormality,154.0,yes,0.0,downsloping,0.0,reversible defect,1
+47.0,1,non-anginal pain,138.0,257.0,less than 120mg/ml,normal,156.0,no,0.0,downsloping,0.0,,1
+41.0,1,atypical angina,110.0,235.0,less than 120mg/ml,ST-T wave abnormality,153.0,no,,downsloping,0.0,reversible defect,1
+57.0,1,typical angina,152.0,274.0,less than 120mg/ml,ST-T wave abnormality,88.0,yes,1.2,flat,1.0,,0
+63.0,0,typical angina,124.0,197.0,less than 120mg/ml,,136.0,yes,0.0,flat,0.0,reversible defect,0
+61.0,1,asymptomatic,134.0,234.0,less than 120mg/ml,ST-T wave abnormality,145.0,no,2.6,flat,2.0,reversible defect,0
+34.0,1,asymptomatic,118.0,182.0,less than 120mg/ml,normal,174.0,no,0.0,downsloping,0.0,reversible defect,1
+47.0,1,typical angina,112.0,,less than 120mg/ml,ST-T wave abnormality,143.0,no,0.1,downsloping,0.0,reversible defect,1
+40.0,1,typical angina,110.0,167.0,less than 120mg/ml,normal,114.0,yes,2.0,flat,0.0,,0
+51.0,0,non-anginal pain,120.0,295.0,less than 120mg/ml,normal,157.0,no,0.6,downsloping,0.0,reversible defect,1
+,1,typical angina,110.0,172.0,less than 120mg/ml,,158.0,no,0.0,downsloping,0.0,,0
+52.0,1,asymptomatic,152.0,298.0,greater than 120mg/ml,ST-T wave abnormality,178.0,no,1.2,flat,0.0,,1
+39.0,1,non-anginal pain,140.0,321.0,less than 120mg/ml,normal,182.0,no,0.0,downsloping,0.0,reversible defect,1
+58.0,1,typical angina,114.0,318.0,less than 120mg/ml,left ventricular hypertrophy,140.0,,4.4,upsloping,3.0,fixed defect,0
+54.0,1,atypical angina,192.0,283.0,less than 120mg/ml,normal,195.0,no,0.0,downsloping,1.0,,0
+58.0,1,typical angina,125.0,300.0,,normal,171.0,no,0.0,downsloping,2.0,,0
+54.0,1,non-anginal pain,120.0,258.0,less than 120mg/ml,normal,147.0,no,0.4,flat,0.0,,1
+63.0,1,typical angina,130.0,330.0,greater than 120mg/ml,normal,132.0,yes,1.8,downsloping,3.0,,0
+54.0,1,atypical angina,108.0,309.0,less than 120mg/ml,ST-T wave abnormality,156.0,no,,downsloping,0.0,,1
+40.0,1,asymptomatic,140.0,199.0,less than 120mg/ml,ST-T wave abnormality,178.0,yes,1.4,downsloping,0.0,,1
+54.0,1,,120.0,258.0,less than 120mg/ml,normal,147.0,no,0.4,flat,0.0,,1
+67.0,0,non-anginal pain,115.0,564.0,less than 120mg/ml,normal,160.0,no,,flat,0.0,,1
+41.0,1,atypical angina,120.0,157.0,less than 120mg/ml,ST-T wave abnormality,182.0,no,0.0,downsloping,0.0,reversible defect,1
+77.0,1,typical angina,125.0,304.0,less than 120mg/ml,normal,162.0,yes,0.0,downsloping,3.0,reversible defect,0
+51.0,1,non-anginal pain,100.0,222.0,less than 120mg/ml,ST-T wave abnormality,143.0,,1.2,flat,0.0,reversible defect,1
+77.0,1,,125.0,304.0,,normal,162.0,yes,0.0,downsloping,3.0,reversible defect,0
+48.0,1,typical angina,124.0,274.0,less than 120mg/ml,normal,166.0,no,0.5,flat,0.0,,0
+56.0,1,typical angina,125.0,249.0,greater than 120mg/ml,,144.0,yes,1.2,flat,1.0,reversible defect,0
+59.0,1,typical angina,170.0,326.0,less than 120mg/ml,normal,140.0,yes,3.4,upsloping,0.0,,0
+56.0,1,typical angina,,184.0,less than 120mg/ml,normal,105.0,yes,2.1,flat,1.0,fixed defect,0
+57.0,0,typical angina,120.0,354.0,less than 120mg/ml,ST-T wave abnormality,163.0,yes,0.6,downsloping,0.0,reversible defect,1
+43.0,1,non-anginal pain,130.0,315.0,less than 120mg/ml,ST-T wave abnormality,162.0,no,1.9,downsloping,1.0,reversible defect,1
+45.0,0,atypical angina,112.0,160.0,less than 120mg/ml,ST-T wave abnormality,138.0,no,0.0,flat,0.0,reversible defect,1
+43.0,,typical angina,150.0,247.0,less than 120mg/ml,ST-T wave abnormality,171.0,no,1.5,downsloping,0.0,reversible defect,1
+56.0,1,typical angina,,283.0,greater than 120mg/ml,normal,103.0,yes,1.6,upsloping,0.0,,0
+56.0,1,atypical angina,120.0,240.0,less than 120mg/ml,ST-T wave abnormality,169.0,no,0.0,upsloping,0.0,reversible defect,1
+39.0,0,non-anginal pain,94.0,199.0,less than 120mg/ml,ST-T wave abnormality,179.0,no,0.0,downsloping,0.0,reversible defect,1
+54.0,1,typical angina,110.0,239.0,less than 120mg/ml,ST-T wave abnormality,126.0,yes,2.8,flat,1.0,,0
+56.0,0,typical angina,200.0,288.0,greater than 120mg/ml,normal,133.0,yes,4.0,upsloping,2.0,,0
+56.0,1,typical angina,130.0,283.0,greater than 120mg/ml,normal,103.0,yes,1.6,upsloping,0.0,,0
+64.0,1,typical angina,120.0,246.0,less than 120mg/ml,normal,96.0,yes,2.2,upsloping,1.0,reversible defect,0
+,1,typical angina,110.0,197.0,less than 120mg/ml,normal,177.0,no,0.0,downsloping,1.0,reversible defect,0
+56.0,0,typical angina,134.0,409.0,less than 120mg/ml,normal,150.0,yes,1.9,flat,2.0,,0
+,1,typical angina,140.0,187.0,less than 120mg/ml,normal,144.0,yes,4.0,downsloping,2.0,,0
+64.0,1,asymptomatic,110.0,211.0,less than 120mg/ml,normal,144.0,yes,1.8,flat,0.0,reversible defect,1
+60.0,1,typical angina,140.0,293.0,less than 120mg/ml,normal,170.0,no,1.2,,,,0
+42.0,1,non-anginal pain,130.0,180.0,less than 120mg/ml,ST-T wave abnormality,150.0,no,0.0,downsloping,0.0,reversible defect,1
+45.0,1,atypical angina,128.0,308.0,less than 120mg/ml,normal,170.0,no,0.0,downsloping,0.0,reversible defect,1
+57.0,1,typical angina,165.0,289.0,greater than 120mg/ml,normal,124.0,no,1.0,flat,3.0,,0
+40.0,1,typical angina,110.0,167.0,less than 120mg/ml,normal,114.0,yes,,flat,0.0,,0
+56.0,1,typical angina,125.0,249.0,greater than 120mg/ml,normal,144.0,yes,1.2,flat,1.0,reversible defect,0
+63.0,1,typical angina,130.0,254.0,less than 120mg/ml,normal,147.0,no,1.4,flat,1.0,,0
+64.0,1,non-anginal pain,125.0,309.0,less than 120mg/ml,ST-T wave abnormality,131.0,yes,1.8,flat,0.0,,0
+41.0,1,non-anginal pain,112.0,250.0,less than 120mg/ml,ST-T wave abnormality,179.0,no,0.0,,0.0,reversible defect,1
+56.0,1,atypical angina,130.0,221.0,less than 120mg/ml,normal,163.0,no,0.0,downsloping,0.0,,1
+67.0,0,non-anginal pain,115.0,564.0,less than 120mg/ml,normal,160.0,no,1.6,flat,0.0,,1
+69.0,1,asymptomatic,160.0,234.0,greater than 120mg/ml,normal,131.0,no,0.1,flat,1.0,reversible defect,1
+67.0,1,typical angina,160.0,286.0,less than 120mg/ml,normal,108.0,yes,1.5,flat,3.0,reversible defect,0
+59.0,1,non-anginal pain,150.0,212.0,greater than 120mg/ml,ST-T wave abnormality,157.0,no,1.6,downsloping,0.0,reversible defect,1
+58.0,,typical angina,100.0,234.0,less than 120mg/ml,ST-T wave abnormality,156.0,no,0.1,downsloping,1.0,,0
+45.0,1,typical angina,115.0,260.0,less than 120mg/ml,normal,185.0,no,0.0,downsloping,0.0,reversible defect,1
+60.0,0,non-anginal pain,102.0,318.0,less than 120mg/ml,ST-T wave abnormality,160.0,no,0.0,downsloping,1.0,reversible defect,1
+50.0,,typical angina,144.0,200.0,less than 120mg/ml,normal,126.0,yes,0.9,flat,0.0,,0
+62.0,0,typical angina,124.0,209.0,less than 120mg/ml,ST-T wave abnormality,163.0,no,0.0,downsloping,0.0,reversible defect,1
+34.0,1,asymptomatic,118.0,182.0,less than 120mg/ml,normal,174.0,no,0.0,downsloping,0.0,reversible defect,1
+52.0,1,asymptomatic,152.0,298.0,greater than 120mg/ml,ST-T wave abnormality,178.0,no,1.2,flat,0.0,,1
+64.0,1,asymptomatic,170.0,227.0,less than 120mg/ml,normal,155.0,no,0.6,flat,0.0,,1
+66.0,0,non-anginal pain,146.0,278.0,less than 120mg/ml,normal,152.0,no,0.0,flat,1.0,reversible defect,1
+42.0,1,asymptomatic,148.0,244.0,less than 120mg/ml,normal,178.0,no,0.8,downsloping,2.0,reversible defect,1
+59.0,1,non-anginal pain,126.0,218.0,greater than 120mg/ml,ST-T wave abnormality,134.0,no,2.2,flat,1.0,fixed defect,0
+41.0,1,non-anginal pain,112.0,250.0,less than 120mg/ml,ST-T wave abnormality,179.0,no,0.0,downsloping,0.0,reversible defect,1
+38.0,1,non-anginal pain,138.0,175.0,less than 120mg/ml,ST-T wave abnormality,173.0,no,0.0,downsloping,4.0,reversible defect,1
+62.0,1,atypical angina,120.0,281.0,less than 120mg/ml,normal,103.0,no,1.4,flat,1.0,,0
+42.0,1,non-anginal pain,120.0,240.0,greater than 120mg/ml,ST-T wave abnormality,194.0,no,0.8,upsloping,0.0,,1
+67.0,1,typical angina,100.0,299.0,less than 120mg/ml,normal,125.0,yes,0.9,flat,2.0,reversible defect,0
+50.0,1,typical angina,150.0,243.0,less than 120mg/ml,normal,128.0,no,2.6,flat,0.0,,0
+43.0,1,non-anginal pain,130.0,315.0,less than 120mg/ml,ST-T wave abnormality,162.0,no,1.9,downsloping,1.0,reversible defect,1
+45.0,1,atypical angina,128.0,308.0,less than 120mg/ml,normal,170.0,no,0.0,downsloping,0.0,reversible defect,1
+49.0,1,atypical angina,130.0,266.0,less than 120mg/ml,ST-T wave abnormality,171.0,no,0.6,downsloping,0.0,reversible defect,1
+65.0,1,typical angina,135.0,254.0,less than 120mg/ml,normal,127.0,no,2.8,flat,1.0,,0
+41.0,1,atypical angina,120.0,,less than 120mg/ml,ST-T wave abnormality,182.0,no,0.0,downsloping,0.0,reversible defect,1
+46.0,1,typical angina,140.0,311.0,less than 120mg/ml,ST-T wave abnormality,120.0,yes,1.8,flat,2.0,,0
+54.0,1,typical angina,122.0,286.0,less than 120mg/ml,normal,116.0,yes,3.2,flat,2.0,reversible defect,0
+57.0,0,atypical angina,130.0,236.0,less than 120mg/ml,normal,174.0,no,0.0,flat,1.0,reversible defect,0
+63.0,1,typical angina,130.0,254.0,less than 120mg/ml,,147.0,no,1.4,flat,1.0,,0
+64.0,1,asymptomatic,110.0,211.0,less than 120mg/ml,,144.0,yes,1.8,flat,0.0,reversible defect,1
+39.0,0,non-anginal pain,94.0,199.0,less than 120mg/ml,ST-T wave abnormality,179.0,no,0.0,downsloping,0.0,reversible defect,1
+51.0,1,typical angina,140.0,261.0,,normal,186.0,yes,0.0,downsloping,0.0,reversible defect,1
+54.0,1,non-anginal pain,150.0,232.0,less than 120mg/ml,normal,165.0,no,1.6,downsloping,0.0,,1
+49.0,1,non-anginal pain,118.0,149.0,less than 120mg/ml,normal,126.0,no,0.8,downsloping,3.0,reversible defect,0
+44.0,0,non-anginal pain,118.0,,less than 120mg/ml,ST-T wave abnormality,149.0,no,0.3,flat,1.0,reversible defect,1
+52.0,1,atypical angina,128.0,205.0,greater than 120mg/ml,ST-T wave abnormality,184.0,no,0.0,downsloping,0.0,reversible defect,1
+66.0,0,typical angina,178.0,228.0,greater than 120mg/ml,ST-T wave abnormality,165.0,yes,1.0,flat,2.0,,0
+58.0,1,typical angina,125.0,300.0,less than 120mg/ml,normal,171.0,no,0.0,downsloping,2.0,,0
+56.0,1,atypical angina,120.0,236.0,less than 120mg/ml,ST-T wave abnormality,178.0,no,0.8,downsloping,0.0,reversible defect,1
+60.0,1,typical angina,125.0,258.0,less than 120mg/ml,normal,141.0,yes,2.8,flat,1.0,,0
+41.0,0,atypical angina,126.0,306.0,less than 120mg/ml,ST-T wave abnormality,163.0,no,0.0,downsloping,0.0,reversible defect,1
+49.0,0,typical angina,130.0,269.0,less than 120mg/ml,ST-T wave abnormality,163.0,no,0.0,downsloping,0.0,reversible defect,1
+64.0,1,asymptomatic,170.0,227.0,less than 120mg/ml,normal,155.0,no,0.6,flat,0.0,,1
+49.0,1,non-anginal pain,118.0,149.0,less than 120mg/ml,normal,126.0,no,0.8,downsloping,3.0,reversible defect,0
+57.0,1,atypical angina,124.0,261.0,less than 120mg/ml,ST-T wave abnormality,141.0,no,0.3,downsloping,0.0,,0
+60.0,1,typical angina,117.0,230.0,greater than 120mg/ml,ST-T wave abnormality,160.0,yes,1.4,downsloping,2.0,,0
+62.0,0,typical angina,150.0,244.0,less than 120mg/ml,ST-T wave abnormality,154.0,yes,1.4,flat,0.0,reversible defect,0
+54.0,0,atypical angina,132.0,288.0,greater than 120mg/ml,normal,159.0,yes,0.0,downsloping,1.0,reversible defect,1
+67.0,,non-anginal pain,152.0,212.0,less than 120mg/ml,normal,150.0,,0.8,flat,0.0,,0
+38.0,1,non-anginal pain,138.0,175.0,less than 120mg/ml,ST-T wave abnormality,173.0,no,0.0,downsloping,4.0,reversible defect,1
+60.0,1,non-anginal pain,140.0,185.0,less than 120mg/ml,normal,155.0,no,3.0,flat,0.0,reversible defect,0
+51.0,1,non-anginal pain,125.0,245.0,greater than 120mg/ml,normal,166.0,no,2.4,flat,0.0,reversible defect,1
+44.0,1,atypical angina,130.0,219.0,less than 120mg/ml,normal,188.0,no,0.0,downsloping,0.0,reversible defect,1
+54.0,1,atypical angina,192.0,283.0,less than 120mg/ml,normal,195.0,no,0.0,downsloping,1.0,,0
+46.0,1,typical angina,140.0,311.0,less than 120mg/ml,ST-T wave abnormality,120.0,yes,1.8,flat,2.0,,0
+39.0,0,non-anginal pain,138.0,220.0,less than 120mg/ml,ST-T wave abnormality,152.0,no,0.0,flat,0.0,reversible defect,1
+42.0,1,non-anginal pain,130.0,180.0,less than 120mg/ml,ST-T wave abnormality,150.0,no,0.0,downsloping,0.0,,1
+47.0,1,typical angina,110.0,275.0,less than 120mg/ml,normal,118.0,yes,1.0,flat,1.0,reversible defect,0
+45.0,0,atypical angina,112.0,160.0,less than 120mg/ml,ST-T wave abnormality,138.0,no,0.0,flat,0.0,reversible defect,1
+55.0,,typical angina,132.0,353.0,less than 120mg/ml,ST-T wave abnormality,132.0,yes,1.2,flat,1.0,,0
+57.0,1,typical angina,165.0,289.0,greater than 120mg/ml,normal,124.0,no,1.0,flat,3.0,,0
+35.0,1,typical angina,120.0,198.0,less than 120mg/ml,ST-T wave abnormality,130.0,yes,1.6,flat,0.0,,0
+62.0,0,typical angina,140.0,394.0,less than 120mg/ml,normal,157.0,no,1.2,flat,0.0,reversible defect,1
+35.0,0,typical angina,138.0,183.0,less than 120mg/ml,ST-T wave abnormality,182.0,no,1.4,downsloping,0.0,reversible defect,1
+64.0,0,typical angina,180.0,325.0,less than 120mg/ml,ST-T wave abnormality,154.0,yes,0.0,downsloping,0.0,reversible defect,1
+38.0,1,asymptomatic,120.0,231.0,less than 120mg/ml,ST-T wave abnormality,182.0,yes,3.8,flat,0.0,,0
+66.0,1,typical angina,120.0,302.0,less than 120mg/ml,normal,151.0,no,0.4,flat,0.0,,1
+44.0,1,non-anginal pain,120.0,,less than 120mg/ml,ST-T wave abnormality,169.0,no,0.0,downsloping,0.0,reversible defect,1
+54.0,1,non-anginal pain,150.0,232.0,less than 120mg/ml,normal,165.0,no,1.6,downsloping,0.0,,1
+48.0,1,typical angina,122.0,222.0,less than 120mg/ml,normal,,no,0.0,downsloping,0.0,reversible defect,1
+55.0,0,atypical angina,132.0,342.0,less than 120mg/ml,ST-T wave abnormality,,no,1.2,downsloping,0.0,reversible defect,1
+58.0,0,typical angina,170.0,225.0,greater than 120mg/ml,normal,146.0,yes,2.8,flat,2.0,fixed defect,0
+45.0,1,typical angina,104.0,208.0,less than 120mg/ml,normal,148.0,yes,3.0,flat,0.0,reversible defect,1
+53.0,1,typical angina,123.0,282.0,less than 120mg/ml,ST-T wave abnormality,95.0,yes,2.0,flat,2.0,,0
+67.0,1,,120.0,237.0,less than 120mg/ml,ST-T wave abnormality,71.0,no,1.0,flat,0.0,reversible defect,0
+58.0,1,non-anginal pain,132.0,224.0,less than 120mg/ml,normal,173.0,no,3.2,downsloping,2.0,,0
+71.0,0,non-anginal pain,110.0,265.0,greater than 120mg/ml,normal,130.0,no,0.0,downsloping,1.0,,1
+43.0,1,typical angina,110.0,211.0,less than 120mg/ml,ST-T wave abnormality,161.0,no,0.0,downsloping,0.0,,1
+44.0,1,atypical angina,120.0,263.0,less than 120mg/ml,ST-T wave abnormality,173.0,no,0.0,downsloping,0.0,,1
+39.0,0,non-anginal pain,138.0,220.0,less than 120mg/ml,ST-T wave abnormality,152.0,no,0.0,flat,0.0,reversible defect,1
+54.0,1,typical angina,110.0,206.0,less than 120mg/ml,normal,108.0,yes,0.0,flat,1.0,reversible defect,0
+66.0,1,typical angina,160.0,228.0,less than 120mg/ml,normal,138.0,no,2.3,downsloping,0.0,fixed defect,1
+56.0,1,typical angina,130.0,283.0,greater than 120mg/ml,normal,103.0,yes,1.6,upsloping,0.0,,0
+57.0,1,typical angina,132.0,207.0,less than 120mg/ml,ST-T wave abnormality,168.0,yes,0.0,downsloping,0.0,,1
+44.0,1,atypical angina,130.0,219.0,less than 120mg/ml,normal,188.0,no,0.0,downsloping,0.0,reversible defect,1
+55.0,1,typical angina,160.0,289.0,less than 120mg/ml,normal,,yes,0.8,flat,1.0,,0
+41.0,0,atypical angina,105.0,198.0,less than 120mg/ml,ST-T wave abnormality,168.0,no,0.0,downsloping,1.0,reversible defect,1
+45.0,0,atypical angina,130.0,234.0,less than 120mg/ml,normal,175.0,no,0.6,flat,0.0,reversible defect,1
+35.0,1,atypical angina,122.0,192.0,less than 120mg/ml,ST-T wave abnormality,174.0,no,0.0,downsloping,0.0,reversible defect,1
+41.0,0,atypical angina,130.0,204.0,less than 120mg/ml,normal,172.0,no,1.4,downsloping,0.0,,1
+64.0,1,asymptomatic,110.0,211.0,less than 120mg/ml,normal,144.0,yes,1.8,flat,0.0,reversible defect,1
+58.0,1,non-anginal pain,132.0,224.0,less than 120mg/ml,normal,173.0,no,3.2,,2.0,,0
+71.0,0,non-anginal pain,110.0,,greater than 120mg/ml,normal,130.0,no,0.0,downsloping,1.0,reversible defect,1
+64.0,0,non-anginal pain,140.0,313.0,less than 120mg/ml,ST-T wave abnormality,133.0,no,0.2,,0.0,,1
+71.0,0,atypical angina,160.0,302.0,less than 120mg/ml,ST-T wave abnormality,162.0,no,0.4,downsloping,2.0,reversible defect,1
+58.0,0,non-anginal pain,,340.0,less than 120mg/ml,ST-T wave abnormality,172.0,no,0.0,downsloping,0.0,reversible defect,1
+40.0,,typical angina,152.0,223.0,less than 120mg/ml,ST-T wave abnormality,181.0,no,0.0,downsloping,0.0,,0
+52.0,1,non-anginal pain,138.0,223.0,less than 120mg/ml,ST-T wave abnormality,169.0,no,0.0,downsloping,4.0,reversible defect,1
+58.0,1,typical angina,128.0,259.0,less than 120mg/ml,normal,130.0,yes,3.0,flat,2.0,,0
+61.0,1,non-anginal pain,150.0,243.0,greater than 120mg/ml,ST-T wave abnormality,137.0,yes,1.0,flat,0.0,reversible defect,1
+59.0,1,non-anginal pain,150.0,212.0,greater than 120mg/ml,ST-T wave abnormality,157.0,no,1.6,downsloping,0.0,reversible defect,1
+56.0,0,typical angina,200.0,288.0,greater than 120mg/ml,,133.0,yes,4.0,upsloping,2.0,,0
+67.0,1,typical angina,100.0,299.0,less than 120mg/ml,normal,125.0,yes,0.9,flat,,reversible defect,0
+67.0,1,typical angina,120.0,237.0,less than 120mg/ml,ST-T wave abnormality,71.0,no,,flat,0.0,reversible defect,0
+58.0,1,typical angina,150.0,270.0,less than 120mg/ml,normal,111.0,yes,0.8,downsloping,0.0,,0
+35.0,,atypical angina,122.0,192.0,less than 120mg/ml,ST-T wave abnormality,174.0,no,0.0,downsloping,0.0,reversible defect,1
+52.0,1,,120.0,325.0,less than 120mg/ml,ST-T wave abnormality,172.0,no,0.2,downsloping,0.0,reversible defect,1
+46.0,0,atypical angina,105.0,204.0,less than 120mg/ml,ST-T wave abnormality,172.0,no,0.0,downsloping,,reversible defect,1
+51.0,1,non-anginal pain,94.0,227.0,less than 120mg/ml,ST-T wave abnormality,154.0,yes,0.0,downsloping,1.0,,1
+55.0,0,atypical angina,132.0,342.0,,ST-T wave abnormality,166.0,no,1.2,downsloping,0.0,reversible defect,1
+60.0,1,typical angina,145.0,282.0,less than 120mg/ml,normal,142.0,yes,2.8,flat,2.0,,0
+52.0,0,non-anginal pain,136.0,196.0,less than 120mg/ml,normal,169.0,,0.1,flat,0.0,,1
+62.0,1,typical angina,120.0,267.0,less than 120mg/ml,ST-T wave abnormality,99.0,yes,1.8,flat,2.0,,0
+44.0,0,non-anginal pain,118.0,242.0,less than 120mg/ml,ST-T wave abnormality,149.0,no,0.3,flat,1.0,reversible defect,1
+44.0,1,atypical angina,120.0,220.0,less than 120mg/ml,,170.0,no,0.0,downsloping,0.0,reversible defect,1
+59.0,1,,126.0,218.0,greater than 120mg/ml,ST-T wave abnormality,134.0,no,2.2,flat,1.0,fixed defect,0
+56.0,0,atypical angina,140.0,294.0,less than 120mg/ml,normal,153.0,no,1.3,flat,0.0,reversible defect,1
+61.0,1,typical angina,120.0,260.0,less than 120mg/ml,ST-T wave abnormality,140.0,yes,3.6,flat,1.0,,0
+48.0,1,,130.0,256.0,greater than 120mg/ml,normal,150.0,yes,0.0,downsloping,2.0,,0
+70.0,1,non-anginal pain,160.0,269.0,less than 120mg/ml,ST-T wave abnormality,112.0,yes,2.9,flat,1.0,,0
+74.0,0,atypical angina,120.0,269.0,less than 120mg/ml,normal,121.0,yes,0.2,downsloping,1.0,reversible defect,1
+40.0,,asymptomatic,140.0,199.0,less than 120mg/ml,ST-T wave abnormality,178.0,yes,,downsloping,0.0,,1
+42.0,1,asymptomatic,148.0,244.0,less than 120mg/ml,normal,178.0,no,0.8,downsloping,2.0,reversible defect,1
+64.0,0,non-anginal pain,140.0,313.0,,ST-T wave abnormality,133.0,no,0.2,downsloping,0.0,,1
+63.0,0,non-anginal pain,135.0,252.0,less than 120mg/ml,normal,172.0,no,0.0,downsloping,0.0,reversible defect,1
+59.0,1,typical angina,140.0,177.0,less than 120mg/ml,ST-T wave abnormality,162.0,yes,0.0,downsloping,1.0,,0
+53.0,0,non-anginal pain,128.0,216.0,less than 120mg/ml,normal,115.0,no,0.0,downsloping,0.0,normal,1
+53.0,0,typical angina,130.0,264.0,less than 120mg/ml,normal,143.0,no,0.4,flat,0.0,reversible defect,1
+48.0,0,non-anginal pain,130.0,275.0,less than 120mg/ml,ST-T wave abnormality,139.0,,0.2,downsloping,0.0,reversible defect,1
+45.0,1,typical angina,142.0,309.0,less than 120mg/ml,normal,147.0,yes,0.0,flat,3.0,,0
+66.0,1,atypical angina,,246.0,less than 120mg/ml,ST-T wave abnormality,120.0,yes,0.0,flat,3.0,fixed defect,0
+48.0,1,atypical angina,130.0,245.0,less than 120mg/ml,normal,180.0,no,0.2,flat,0.0,reversible defect,1
+56.0,0,atypical angina,140.0,294.0,less than 120mg/ml,normal,153.0,no,1.3,,0.0,reversible defect,1
+54.0,1,atypical angina,192.0,283.0,less than 120mg/ml,normal,195.0,no,0.0,downsloping,1.0,,0
+57.0,1,typical angina,150.0,276.0,less than 120mg/ml,normal,112.0,yes,0.6,flat,1.0,fixed defect,0
+70.0,1,typical angina,130.0,322.0,less than 120mg/ml,normal,109.0,no,2.4,flat,3.0,reversible defect,0
+53.0,0,non-anginal pain,128.0,216.0,less than 120mg/ml,normal,115.0,no,0.0,downsloping,0.0,normal,1
+37.0,0,non-anginal pain,120.0,215.0,less than 120mg/ml,ST-T wave abnormality,170.0,no,0.0,downsloping,0.0,reversible defect,1
+63.0,0,typical angina,108.0,269.0,less than 120mg/ml,ST-T wave abnormality,169.0,yes,1.8,flat,2.0,reversible defect,0
+37.0,1,non-anginal pain,130.0,250.0,less than 120mg/ml,ST-T wave abnormality,187.0,no,3.5,upsloping,0.0,reversible defect,1
+54.0,0,non-anginal pain,110.0,214.0,less than 120mg/ml,ST-T wave abnormality,158.0,no,1.6,flat,0.0,reversible defect,1
+60.0,1,typical angina,130.0,206.0,less than 120mg/ml,normal,132.0,yes,2.4,flat,2.0,,0
+58.0,1,typical angina,150.0,270.0,less than 120mg/ml,normal,111.0,yes,0.8,downsloping,0.0,,0
+57.0,1,non-anginal pain,150.0,126.0,greater than 120mg/ml,ST-T wave abnormality,173.0,no,0.2,downsloping,1.0,,1
+54.0,1,non-anginal pain,125.0,273.0,less than 120mg/ml,normal,152.0,no,0.5,upsloping,1.0,reversible defect,1
+56.0,1,non-anginal pain,130.0,256.0,greater than 120mg/ml,normal,142.0,yes,0.6,flat,1.0,fixed defect,0
+60.0,1,typical angina,130.0,253.0,less than 120mg/ml,ST-T wave abnormality,144.0,yes,1.4,,1.0,,0
+38.0,1,non-anginal pain,138.0,175.0,less than 120mg/ml,ST-T wave abnormality,173.0,no,0.0,downsloping,4.0,reversible defect,1
+44.0,1,non-anginal pain,120.0,226.0,less than 120mg/ml,ST-T wave abnormality,169.0,no,0.0,downsloping,0.0,reversible defect,1
+65.0,0,non-anginal pain,155.0,269.0,less than 120mg/ml,ST-T wave abnormality,148.0,no,0.8,downsloping,0.0,reversible defect,1
+52.0,1,non-anginal pain,172.0,199.0,greater than 120mg/ml,,162.0,no,0.5,downsloping,,,1
+41.0,1,atypical angina,120.0,157.0,less than 120mg/ml,ST-T wave abnormality,182.0,no,0.0,downsloping,0.0,reversible defect,1
+66.0,1,atypical angina,160.0,246.0,less than 120mg/ml,ST-T wave abnormality,120.0,yes,0.0,flat,3.0,fixed defect,0
+50.0,1,typical angina,150.0,243.0,,normal,128.0,no,2.6,flat,0.0,,0
+,0,non-anginal pain,108.0,267.0,less than 120mg/ml,normal,167.0,no,0.0,downsloping,0.0,reversible defect,1
+43.0,1,typical angina,132.0,247.0,greater than 120mg/ml,normal,143.0,yes,0.1,flat,4.0,,0
+62.0,0,non-anginal pain,130.0,263.0,less than 120mg/ml,ST-T wave abnormality,97.0,no,1.2,flat,1.0,,0
+66.0,1,,120.0,302.0,less than 120mg/ml,normal,151.0,no,0.4,flat,0.0,reversible defect,1
+50.0,1,typical angina,144.0,200.0,less than 120mg/ml,normal,126.0,yes,0.9,flat,0.0,,0
+57.0,1,,110.0,335.0,less than 120mg/ml,ST-T wave abnormality,143.0,yes,3.0,flat,1.0,,0
+57.0,1,typical angina,110.0,,less than 120mg/ml,ST-T wave abnormality,126.0,yes,1.5,flat,0.0,fixed defect,1
+57.0,1,atypical angina,124.0,261.0,less than 120mg/ml,ST-T wave abnormality,141.0,no,0.3,,0.0,,0
+46.0,0,typical angina,138.0,243.0,less than 120mg/ml,normal,152.0,yes,0.0,flat,0.0,reversible defect,1
+,1,typical angina,164.0,176.0,greater than 120mg/ml,normal,90.0,no,1.0,flat,2.0,fixed defect,0
+67.0,1,typical angina,160.0,286.0,less than 120mg/ml,normal,108.0,,1.5,flat,3.0,reversible defect,0
+59.0,1,asymptomatic,134.0,204.0,less than 120mg/ml,ST-T wave abnormality,162.0,no,0.8,downsloping,2.0,reversible defect,0
+53.0,0,non-anginal pain,128.0,216.0,less than 120mg/ml,normal,115.0,no,0.0,downsloping,0.0,normal,1
+48.0,1,typical angina,122.0,222.0,less than 120mg/ml,normal,186.0,no,0.0,downsloping,0.0,reversible defect,1
+62.0,1,non-anginal pain,130.0,231.0,less than 120mg/ml,ST-T wave abnormality,146.0,no,1.8,flat,3.0,,1
+43.0,0,non-anginal pain,122.0,213.0,less than 120mg/ml,ST-T wave abnormality,165.0,no,0.2,flat,0.0,reversible defect,1
+53.0,1,,130.0,246.0,greater than 120mg/ml,normal,173.0,no,0.0,downsloping,3.0,reversible defect,1
+57.0,0,atypical angina,130.0,236.0,less than 120mg/ml,normal,174.0,no,0.0,flat,1.0,reversible defect,0
+53.0,1,non-anginal pain,130.0,246.0,greater than 120mg/ml,normal,173.0,no,0.0,downsloping,,reversible defect,1
+58.0,1,non-anginal pain,112.0,230.0,less than 120mg/ml,normal,165.0,no,2.5,flat,1.0,,0
+48.0,1,atypical angina,110.0,229.0,less than 120mg/ml,ST-T wave abnormality,168.0,no,1.0,upsloping,0.0,,0
+58.0,1,non-anginal pain,105.0,240.0,less than 120mg/ml,normal,154.0,yes,0.6,flat,0.0,,1
+51.0,1,non-anginal pain,110.0,175.0,less than 120mg/ml,ST-T wave abnormality,123.0,no,0.6,downsloping,0.0,reversible defect,1
+43.0,0,typical angina,132.0,341.0,greater than 120mg/ml,normal,136.0,yes,3.0,flat,0.0,,0
+55.0,1,typical angina,132.0,353.0,less than 120mg/ml,ST-T wave abnormality,132.0,yes,1.2,flat,1.0,,0
+54.0,0,non-anginal pain,110.0,214.0,less than 120mg/ml,ST-T wave abnormality,158.0,no,1.6,flat,0.0,reversible defect,1
+58.0,1,atypical angina,120.0,284.0,less than 120mg/ml,normal,160.0,no,1.8,flat,0.0,reversible defect,0
+46.0,0,non-anginal pain,142.0,177.0,less than 120mg/ml,normal,160.0,yes,1.4,upsloping,0.0,reversible defect,1
+66.0,1,typical angina,160.0,228.0,less than 120mg/ml,normal,138.0,no,2.3,downsloping,0.0,fixed defect,1
+59.0,1,atypical angina,140.0,221.0,less than 120mg/ml,ST-T wave abnormality,164.0,yes,0.0,,0.0,reversible defect,1
+64.0,0,typical angina,130.0,303.0,less than 120mg/ml,ST-T wave abnormality,122.0,no,2.0,flat,2.0,reversible defect,1
+67.0,1,typical angina,120.0,237.0,less than 120mg/ml,ST-T wave abnormality,71.0,no,1.0,flat,0.0,reversible defect,0
+52.0,1,asymptomatic,118.0,186.0,less than 120mg/ml,normal,190.0,no,0.0,flat,0.0,fixed defect,1
+58.0,1,,146.0,218.0,less than 120mg/ml,ST-T wave abnormality,105.0,no,2.0,flat,1.0,,0
+58.0,1,non-anginal pain,132.0,224.0,less than 120mg/ml,,173.0,no,3.2,downsloping,2.0,,0
+59.0,1,typical angina,110.0,239.0,less than 120mg/ml,normal,142.0,yes,1.2,flat,1.0,,0
+58.0,1,typical angina,150.0,270.0,less than 120mg/ml,normal,111.0,yes,0.8,downsloping,0.0,,0
+35.0,1,typical angina,126.0,282.0,less than 120mg/ml,normal,156.0,yes,0.0,downsloping,0.0,,0
+51.0,1,non-anginal pain,110.0,175.0,less than 120mg/ml,ST-T wave abnormality,123.0,no,0.6,downsloping,0.0,reversible defect,1
+42.0,0,non-anginal pain,120.0,209.0,less than 120mg/ml,ST-T wave abnormality,173.0,no,0.0,flat,0.0,reversible defect,1
+77.0,1,typical angina,125.0,304.0,less than 120mg/ml,normal,162.0,yes,0.0,downsloping,3.0,reversible defect,0
+64.0,1,typical angina,120.0,246.0,less than 120mg/ml,normal,96.0,yes,2.2,upsloping,1.0,reversible defect,0
+63.0,1,asymptomatic,145.0,233.0,greater than 120mg/ml,normal,150.0,no,2.3,upsloping,0.0,fixed defect,1
+58.0,0,atypical angina,136.0,319.0,greater than 120mg/ml,normal,152.0,no,0.0,downsloping,2.0,reversible defect,0
+45.0,1,asymptomatic,110.0,264.0,less than 120mg/ml,ST-T wave abnormality,132.0,no,,flat,0.0,,0
+51.0,1,non-anginal pain,110.0,175.0,less than 120mg/ml,ST-T wave abnormality,123.0,no,0.6,downsloping,0.0,reversible defect,1
+62.0,0,typical angina,160.0,164.0,less than 120mg/ml,normal,145.0,no,6.2,upsloping,3.0,,0
+63.0,1,typical angina,130.0,330.0,greater than 120mg/ml,normal,132.0,yes,1.8,downsloping,3.0,,0
+66.0,0,non-anginal pain,146.0,278.0,less than 120mg/ml,normal,152.0,no,0.0,flat,1.0,reversible defect,1
+68.0,1,non-anginal pain,180.0,274.0,greater than 120mg/ml,normal,150.0,yes,1.6,flat,0.0,,0
+40.0,1,typical angina,110.0,167.0,less than 120mg/ml,normal,114.0,yes,,flat,0.0,,0
+66.0,1,typical angina,160.0,,less than 120mg/ml,normal,138.0,no,2.3,downsloping,0.0,fixed defect,1
+63.0,1,asymptomatic,145.0,233.0,,normal,150.0,no,2.3,upsloping,0.0,fixed defect,1
+49.0,1,non-anginal pain,120.0,188.0,less than 120mg/ml,ST-T wave abnormality,139.0,no,2.0,flat,3.0,,0
+71.0,0,typical angina,112.0,149.0,less than 120mg/ml,ST-T wave abnormality,125.0,no,1.6,flat,0.0,reversible defect,1
+70.0,1,atypical angina,156.0,245.0,less than 120mg/ml,normal,143.0,no,0.0,downsloping,0.0,reversible defect,1
+46.0,0,atypical angina,105.0,,less than 120mg/ml,ST-T wave abnormality,172.0,no,0.0,downsloping,0.0,reversible defect,1
+61.0,1,typical angina,140.0,207.0,less than 120mg/ml,normal,138.0,yes,1.9,downsloping,1.0,,0
+56.0,1,non-anginal pain,130.0,256.0,greater than 120mg/ml,normal,142.0,yes,0.6,flat,1.0,,0
+58.0,1,non-anginal pain,140.0,211.0,greater than 120mg/ml,normal,165.0,no,0.0,downsloping,0.0,reversible defect,1
+58.0,1,typical angina,100.0,234.0,less than 120mg/ml,ST-T wave abnormality,156.0,no,0.1,downsloping,1.0,,0
+46.0,0,typical angina,138.0,243.0,less than 120mg/ml,normal,152.0,yes,,flat,0.0,reversible defect,1
+46.0,1,non-anginal pain,,231.0,less than 120mg/ml,ST-T wave abnormality,147.0,no,3.6,flat,0.0,reversible defect,0
+41.0,0,atypical angina,105.0,198.0,less than 120mg/ml,ST-T wave abnormality,168.0,no,0.0,downsloping,1.0,reversible defect,1
+56.0,1,typical angina,125.0,249.0,greater than 120mg/ml,normal,144.0,yes,1.2,flat,1.0,reversible defect,0
+57.0,1,typical angina,150.0,276.0,less than 120mg/ml,normal,112.0,yes,0.6,flat,1.0,fixed defect,0
+70.0,1,typical angina,130.0,322.0,less than 120mg/ml,normal,109.0,no,2.4,flat,3.0,reversible defect,0
+59.0,1,asymptomatic,170.0,288.0,less than 120mg/ml,normal,159.0,no,0.2,flat,0.0,,0
+41.0,0,atypical angina,130.0,204.0,less than 120mg/ml,normal,172.0,no,1.4,downsloping,0.0,reversible defect,1
+54.0,1,non-anginal pain,125.0,273.0,less than 120mg/ml,normal,152.0,no,0.5,upsloping,1.0,reversible defect,1
+52.0,1,non-anginal pain,138.0,223.0,less than 120mg/ml,ST-T wave abnormality,169.0,no,0.0,downsloping,4.0,reversible defect,1
+62.0,0,typical angina,124.0,209.0,less than 120mg/ml,ST-T wave abnormality,163.0,no,0.0,downsloping,0.0,reversible defect,1
+65.0,0,non-anginal pain,160.0,360.0,less than 120mg/ml,normal,151.0,no,0.8,downsloping,0.0,reversible defect,1
+57.0,0,typical angina,128.0,303.0,less than 120mg/ml,normal,159.0,no,0.0,downsloping,1.0,reversible defect,1
+42.0,0,typical angina,102.0,265.0,less than 120mg/ml,normal,122.0,no,0.6,flat,0.0,reversible defect,1
+57.0,0,typical angina,120.0,354.0,less than 120mg/ml,ST-T wave abnormality,163.0,yes,0.6,downsloping,0.0,reversible defect,1
+58.0,0,atypical angina,136.0,319.0,greater than 120mg/ml,normal,152.0,no,0.0,downsloping,2.0,reversible defect,0
+45.0,1,typical angina,142.0,309.0,less than 120mg/ml,normal,147.0,yes,0.0,flat,3.0,,0
+51.0,0,typical angina,130.0,305.0,less than 120mg/ml,ST-T wave abnormality,142.0,yes,1.2,flat,0.0,,0
+54.0,0,non-anginal pain,160.0,201.0,less than 120mg/ml,ST-T wave abnormality,163.0,no,0.0,downsloping,1.0,reversible defect,1
+57.0,1,non-anginal pain,150.0,168.0,less than 120mg/ml,ST-T wave abnormality,174.0,no,1.6,downsloping,0.0,reversible defect,1
+43.0,1,typical angina,132.0,247.0,greater than 120mg/ml,normal,143.0,yes,0.1,flat,4.0,,0
+47.0,1,non-anginal pain,108.0,243.0,less than 120mg/ml,ST-T wave abnormality,152.0,no,0.0,downsloping,0.0,reversible defect,0
+67.0,1,non-anginal pain,152.0,212.0,less than 120mg/ml,normal,150.0,no,0.8,flat,0.0,,0
+65.0,0,typical angina,150.0,225.0,less than 120mg/ml,normal,114.0,no,1.0,flat,3.0,,0
+60.0,0,non-anginal pain,102.0,318.0,less than 120mg/ml,ST-T wave abnormality,160.0,no,0.0,downsloping,1.0,reversible defect,1
+37.0,1,non-anginal pain,130.0,250.0,less than 120mg/ml,ST-T wave abnormality,187.0,no,3.5,upsloping,0.0,reversible defect,1
+41.0,0,non-anginal pain,112.0,268.0,less than 120mg/ml,normal,172.0,yes,0.0,downsloping,0.0,reversible defect,1
+57.0,0,typical angina,120.0,354.0,less than 120mg/ml,ST-T wave abnormality,,yes,0.6,downsloping,0.0,reversible defect,1
+59.0,0,typical angina,174.0,249.0,less than 120mg/ml,,143.0,yes,0.0,flat,0.0,reversible defect,0
+67.0,1,typical angina,120.0,229.0,less than 120mg/ml,normal,129.0,yes,2.6,flat,2.0,,0
+,1,non-anginal pain,130.0,253.0,less than 120mg/ml,ST-T wave abnormality,179.0,no,0.0,downsloping,0.0,,1
+58.0,1,atypical angina,,284.0,less than 120mg/ml,normal,160.0,no,1.8,flat,0.0,reversible defect,0
+62.0,0,typical angina,150.0,244.0,less than 120mg/ml,ST-T wave abnormality,154.0,yes,1.4,,0.0,reversible defect,0
+60.0,1,typical angina,140.0,293.0,less than 120mg/ml,normal,170.0,no,1.2,flat,2.0,,0
+,1,typical angina,152.0,274.0,less than 120mg/ml,ST-T wave abnormality,88.0,yes,1.2,flat,1.0,,0
+57.0,1,non-anginal pain,150.0,168.0,less than 120mg/ml,ST-T wave abnormality,174.0,no,1.6,downsloping,0.0,reversible defect,1
+47.0,1,non-anginal pain,130.0,253.0,less than 120mg/ml,,179.0,no,0.0,downsloping,0.0,reversible defect,1
+52.0,1,atypical angina,128.0,,greater than 120mg/ml,ST-T wave abnormality,184.0,no,0.0,downsloping,0.0,reversible defect,1
+53.0,1,non-anginal pain,130.0,246.0,greater than 120mg/ml,normal,173.0,no,0.0,downsloping,3.0,reversible defect,1
+55.0,1,typical angina,160.0,289.0,less than 120mg/ml,normal,145.0,yes,0.8,flat,1.0,,0
+51.0,0,non-anginal pain,120.0,295.0,less than 120mg/ml,normal,,no,0.6,downsloping,0.0,reversible defect,1
+52.0,1,typical angina,112.0,230.0,less than 120mg/ml,ST-T wave abnormality,160.0,no,0.0,downsloping,1.0,reversible defect,0
+63.0,0,typical angina,150.0,407.0,less than 120mg/ml,normal,154.0,no,4.0,,3.0,,0
+49.0,0,atypical angina,134.0,271.0,less than 120mg/ml,,162.0,no,0.0,flat,0.0,reversible defect,1
+66.0,0,typical angina,178.0,228.0,greater than 120mg/ml,ST-T wave abnormality,165.0,yes,1.0,flat,2.0,,0
+49.0,0,atypical angina,134.0,271.0,less than 120mg/ml,ST-T wave abnormality,162.0,no,0.0,flat,0.0,reversible defect,1
+65.0,0,typical angina,150.0,225.0,,normal,114.0,no,1.0,flat,3.0,,0
+69.0,1,asymptomatic,,234.0,greater than 120mg/ml,normal,131.0,no,0.1,flat,1.0,reversible defect,1
+47.0,1,non-anginal pain,108.0,243.0,less than 120mg/ml,ST-T wave abnormality,152.0,no,0.0,downsloping,,reversible defect,0
+39.0,0,non-anginal pain,138.0,220.0,less than 120mg/ml,ST-T wave abnormality,152.0,no,0.0,flat,0.0,reversible defect,1
+43.0,1,typical angina,150.0,247.0,less than 120mg/ml,ST-T wave abnormality,171.0,no,1.5,downsloping,0.0,reversible defect,1
+51.0,1,typical angina,140.0,261.0,less than 120mg/ml,,186.0,yes,0.0,downsloping,0.0,reversible defect,1
+69.0,1,non-anginal pain,140.0,254.0,less than 120mg/ml,normal,146.0,no,2.0,flat,3.0,,0
+48.0,1,non-anginal pain,124.0,255.0,greater than 120mg/ml,ST-T wave abnormality,175.0,no,0.0,downsloping,2.0,reversible defect,1
+52.0,1,asymptomatic,118.0,186.0,less than 120mg/ml,normal,190.0,no,0.0,flat,0.0,fixed defect,1
+43.0,1,typical angina,110.0,211.0,less than 120mg/ml,ST-T wave abnormality,161.0,no,0.0,downsloping,0.0,,1
+67.0,0,non-anginal pain,115.0,564.0,less than 120mg/ml,normal,160.0,no,1.6,flat,0.0,,1
+38.0,1,non-anginal pain,138.0,175.0,less than 120mg/ml,ST-T wave abnormality,173.0,no,0.0,downsloping,4.0,reversible defect,1
+44.0,1,atypical angina,130.0,219.0,less than 120mg/ml,normal,188.0,no,0.0,downsloping,,reversible defect,1
+47.0,1,typical angina,110.0,275.0,less than 120mg/ml,normal,118.0,yes,1.0,flat,,reversible defect,0
+61.0,1,non-anginal pain,150.0,243.0,greater than 120mg/ml,ST-T wave abnormality,137.0,yes,1.0,flat,0.0,reversible defect,1
+67.0,1,typical angina,160.0,286.0,less than 120mg/ml,normal,108.0,yes,1.5,flat,3.0,reversible defect,0
+60.0,0,asymptomatic,150.0,240.0,less than 120mg/ml,ST-T wave abnormality,171.0,no,0.9,downsloping,0.0,reversible defect,1
+64.0,0,non-anginal pain,140.0,313.0,less than 120mg/ml,ST-T wave abnormality,133.0,no,0.2,downsloping,0.0,,1
+58.0,0,typical angina,130.0,197.0,less than 120mg/ml,ST-T wave abnormality,131.0,no,0.6,flat,0.0,reversible defect,1
+41.0,1,non-anginal pain,130.0,214.0,less than 120mg/ml,normal,168.0,no,2.0,flat,0.0,reversible defect,1
+48.0,1,atypical angina,110.0,229.0,less than 120mg/ml,ST-T wave abnormality,168.0,no,1.0,upsloping,0.0,,0
+57.0,1,non-anginal pain,150.0,126.0,,ST-T wave abnormality,173.0,no,0.2,downsloping,1.0,,1
+57.0,1,,165.0,289.0,greater than 120mg/ml,normal,124.0,no,1.0,flat,3.0,,0
+57.0,1,non-anginal pain,128.0,229.0,less than 120mg/ml,normal,150.0,no,0.4,flat,1.0,,0
+39.0,1,non-anginal pain,140.0,321.0,,normal,182.0,no,0.0,downsloping,0.0,reversible defect,1
+58.0,1,typical angina,128.0,216.0,less than 120mg/ml,normal,131.0,yes,2.2,flat,3.0,,0
+51.0,0,typical angina,130.0,305.0,less than 120mg/ml,ST-T wave abnormality,142.0,yes,1.2,flat,0.0,,0
+63.0,0,typical angina,150.0,407.0,less than 120mg/ml,normal,154.0,no,4.0,flat,3.0,,0
+51.0,1,typical angina,140.0,298.0,less than 120mg/ml,ST-T wave abnormality,122.0,yes,4.2,flat,3.0,,0
+35.0,1,atypical angina,,192.0,less than 120mg/ml,ST-T wave abnormality,174.0,no,0.0,downsloping,0.0,reversible defect,1
+65.0,1,typical angina,110.0,248.0,less than 120mg/ml,normal,158.0,no,0.6,downsloping,2.0,fixed defect,0
+62.0,1,atypical angina,120.0,281.0,less than 120mg/ml,normal,103.0,no,1.4,flat,1.0,,0
+,1,typical angina,110.0,172.0,less than 120mg/ml,normal,158.0,no,0.0,downsloping,0.0,,0
+65.0,1,typical angina,135.0,254.0,less than 120mg/ml,normal,127.0,no,2.8,flat,1.0,,0
+54.0,0,atypical angina,132.0,288.0,greater than 120mg/ml,normal,159.0,yes,0.0,downsloping,1.0,reversible defect,1
+61.0,1,non-anginal pain,150.0,243.0,greater than 120mg/ml,ST-T wave abnormality,137.0,yes,1.0,flat,0.0,reversible defect,1
+57.0,0,typical angina,128.0,303.0,less than 120mg/ml,,159.0,no,0.0,downsloping,1.0,reversible defect,1
+57.0,1,non-anginal pain,150.0,168.0,less than 120mg/ml,ST-T wave abnormality,174.0,no,1.6,downsloping,0.0,reversible defect,1
+64.0,1,non-anginal pain,125.0,309.0,less than 120mg/ml,ST-T wave abnormality,131.0,yes,1.8,,0.0,,0
+55.0,1,typical angina,132.0,,less than 120mg/ml,ST-T wave abnormality,132.0,yes,1.2,flat,1.0,,0
+51.0,1,non-anginal pain,125.0,245.0,greater than 120mg/ml,normal,,no,2.4,flat,0.0,reversible defect,1
+59.0,1,typical angina,135.0,234.0,less than 120mg/ml,ST-T wave abnormality,161.0,no,0.5,flat,0.0,,1
+68.0,1,non-anginal pain,180.0,274.0,greater than 120mg/ml,normal,150.0,yes,1.6,flat,0.0,,0
+57.0,1,atypical angina,154.0,232.0,less than 120mg/ml,normal,164.0,no,0.0,downsloping,1.0,reversible defect,0
+54.0,1,typical angina,140.0,239.0,less than 120mg/ml,ST-T wave abnormality,160.0,no,1.2,downsloping,0.0,reversible defect,1
+46.0,0,non-anginal pain,142.0,177.0,less than 120mg/ml,normal,160.0,yes,1.4,upsloping,0.0,reversible defect,1
+71.0,0,typical angina,112.0,149.0,less than 120mg/ml,ST-T wave abnormality,125.0,no,1.6,flat,0.0,reversible defect,1
+35.0,0,typical angina,138.0,183.0,less than 120mg/ml,ST-T wave abnormality,182.0,no,1.4,,0.0,reversible defect,1
+46.0,0,non-anginal pain,142.0,177.0,less than 120mg/ml,normal,160.0,yes,1.4,upsloping,0.0,reversible defect,1
+45.0,0,atypical angina,130.0,,less than 120mg/ml,normal,175.0,no,0.6,flat,0.0,reversible defect,1
+47.0,1,non-anginal pain,108.0,243.0,less than 120mg/ml,ST-T wave abnormality,152.0,no,0.0,downsloping,0.0,reversible defect,0
+44.0,0,non-anginal pain,118.0,242.0,less than 120mg/ml,ST-T wave abnormality,149.0,,0.3,flat,1.0,reversible defect,1
+61.0,1,typical angina,120.0,260.0,less than 120mg/ml,ST-T wave abnormality,,yes,3.6,flat,1.0,,0
+41.0,0,atypical angina,130.0,204.0,less than 120mg/ml,normal,172.0,no,1.4,downsloping,0.0,reversible defect,1
+56.0,0,typical angina,200.0,288.0,greater than 120mg/ml,normal,133.0,yes,4.0,upsloping,2.0,,0
+55.0,0,typical angina,180.0,327.0,less than 120mg/ml,left ventricular hypertrophy,117.0,yes,3.4,flat,0.0,,0
+54.0,0,atypical angina,132.0,288.0,greater than 120mg/ml,normal,159.0,yes,0.0,downsloping,1.0,reversible defect,1
+43.0,1,typical angina,120.0,177.0,less than 120mg/ml,normal,120.0,yes,2.5,flat,0.0,,0
+44.0,1,typical angina,112.0,290.0,less than 120mg/ml,normal,153.0,no,0.0,downsloping,1.0,reversible defect,0
+54.0,1,typical angina,110.0,206.0,less than 120mg/ml,normal,108.0,yes,0.0,flat,1.0,reversible defect,0
+44.0,1,atypical angina,120.0,220.0,less than 120mg/ml,ST-T wave abnormality,170.0,no,0.0,downsloping,0.0,reversible defect,1
+49.0,1,non-anginal pain,120.0,188.0,less than 120mg/ml,ST-T wave abnormality,139.0,no,,flat,3.0,,0
+60.0,1,typical angina,130.0,206.0,less than 120mg/ml,normal,132.0,,2.4,flat,2.0,,0
+41.0,,atypical angina,105.0,198.0,less than 120mg/ml,ST-T wave abnormality,168.0,no,0.0,downsloping,1.0,reversible defect,1
+49.0,1,non-anginal pain,120.0,188.0,less than 120mg/ml,ST-T wave abnormality,139.0,no,2.0,flat,3.0,,0
+61.0,1,typical angina,148.0,203.0,less than 120mg/ml,ST-T wave abnormality,161.0,no,0.0,downsloping,1.0,,0
+59.0,1,typical angina,140.0,177.0,less than 120mg/ml,ST-T wave abnormality,162.0,yes,0.0,downsloping,1.0,,0
+58.0,1,atypical angina,,220.0,less than 120mg/ml,ST-T wave abnormality,144.0,no,0.4,flat,4.0,,1
+67.0,0,non-anginal pain,152.0,277.0,less than 120mg/ml,ST-T wave abnormality,172.0,no,0.0,downsloping,1.0,reversible defect,1
+61.0,1,typical angina,148.0,203.0,less than 120mg/ml,ST-T wave abnormality,161.0,no,0.0,downsloping,1.0,,0
+58.0,1,non-anginal pain,112.0,230.0,less than 120mg/ml,normal,165.0,no,2.5,flat,1.0,,0
+51.0,0,non-anginal pain,130.0,256.0,less than 120mg/ml,normal,149.0,no,0.5,downsloping,0.0,reversible defect,1
+62.0,0,typical angina,160.0,164.0,less than 120mg/ml,normal,145.0,no,6.2,upsloping,3.0,,0
+62.0,0,typical angina,124.0,209.0,less than 120mg/ml,ST-T wave abnormality,163.0,no,0.0,downsloping,0.0,reversible defect,1
+59.0,1,asymptomatic,178.0,270.0,less than 120mg/ml,normal,145.0,no,4.2,upsloping,0.0,,1
+69.0,1,,160.0,234.0,greater than 120mg/ml,normal,,no,0.1,flat,1.0,reversible defect,1
+60.0,0,typical angina,150.0,258.0,less than 120mg/ml,normal,157.0,no,2.6,flat,2.0,,0
+65.0,0,non-anginal pain,155.0,269.0,less than 120mg/ml,ST-T wave abnormality,148.0,no,0.8,downsloping,0.0,reversible defect,1
+63.0,0,typical angina,124.0,197.0,less than 120mg/ml,ST-T wave abnormality,136.0,yes,0.0,flat,0.0,reversible defect,0
+53.0,0,,138.0,234.0,less than 120mg/ml,normal,160.0,no,0.0,,0.0,reversible defect,1
+54.0,0,non-anginal pain,108.0,267.0,less than 120mg/ml,,167.0,no,0.0,downsloping,0.0,reversible defect,1
+76.0,0,non-anginal pain,140.0,197.0,less than 120mg/ml,left ventricular hypertrophy,116.0,no,1.1,flat,0.0,reversible defect,1
+50.0,0,non-anginal pain,120.0,219.0,less than 120mg/ml,ST-T wave abnormality,158.0,no,1.6,flat,0.0,reversible defect,1
+52.0,1,atypical angina,120.0,325.0,less than 120mg/ml,ST-T wave abnormality,172.0,no,0.2,downsloping,0.0,reversible defect,1
+46.0,1,typical angina,120.0,249.0,less than 120mg/ml,normal,144.0,no,0.8,downsloping,0.0,,0
+64.0,1,asymptomatic,170.0,227.0,less than 120mg/ml,normal,155.0,no,0.6,flat,0.0,,1
+58.0,1,typical angina,128.0,259.0,less than 120mg/ml,normal,130.0,yes,3.0,flat,2.0,,0
+44.0,1,non-anginal pain,140.0,235.0,less than 120mg/ml,normal,180.0,no,0.0,downsloping,0.0,reversible defect,1
+62.0,0,typical angina,140.0,394.0,less than 120mg/ml,normal,157.0,no,1.2,flat,0.0,reversible defect,1
+59.0,1,asymptomatic,134.0,204.0,less than 120mg/ml,,162.0,no,0.8,downsloping,2.0,reversible defect,0
+54.0,1,non-anginal pain,125.0,273.0,less than 120mg/ml,normal,152.0,no,0.5,upsloping,1.0,reversible defect,1
+48.0,1,atypical angina,110.0,229.0,less than 120mg/ml,ST-T wave abnormality,168.0,no,1.0,upsloping,0.0,,0
+70.0,1,,130.0,322.0,less than 120mg/ml,normal,109.0,no,2.4,flat,3.0,reversible defect,0
+67.0,0,typical angina,106.0,223.0,less than 120mg/ml,ST-T wave abnormality,142.0,,0.3,downsloping,2.0,reversible defect,1
+51.0,0,non-anginal pain,120.0,,,normal,157.0,no,0.6,downsloping,0.0,reversible defect,1
+68.0,1,non-anginal pain,118.0,277.0,less than 120mg/ml,ST-T wave abnormality,151.0,no,1.0,downsloping,1.0,,1
+69.0,1,non-anginal pain,140.0,254.0,less than 120mg/ml,normal,146.0,no,2.0,flat,3.0,,0
+54.0,1,typical angina,122.0,286.0,less than 120mg/ml,normal,116.0,yes,3.2,flat,2.0,reversible defect,0
+43.0,0,typical angina,132.0,341.0,greater than 120mg/ml,normal,136.0,yes,3.0,flat,0.0,,0
+53.0,1,non-anginal pain,130.0,197.0,greater than 120mg/ml,normal,152.0,no,1.2,upsloping,0.0,reversible defect,1
+58.0,1,typical angina,100.0,234.0,,ST-T wave abnormality,156.0,no,0.1,downsloping,1.0,,0
+67.0,1,typical angina,125.0,254.0,greater than 120mg/ml,ST-T wave abnormality,163.0,no,0.2,flat,2.0,,0
+59.0,1,typical angina,140.0,177.0,less than 120mg/ml,ST-T wave abnormality,162.0,yes,0.0,downsloping,1.0,,0
+48.0,,typical angina,122.0,222.0,less than 120mg/ml,normal,186.0,no,0.0,downsloping,0.0,reversible defect,1
+39.0,0,non-anginal pain,94.0,199.0,less than 120mg/ml,ST-T wave abnormality,,no,0.0,downsloping,0.0,reversible defect,1
+67.0,1,typical angina,120.0,237.0,less than 120mg/ml,ST-T wave abnormality,71.0,no,1.0,flat,0.0,reversible defect,0
+58.0,0,typical angina,130.0,197.0,less than 120mg/ml,ST-T wave abnormality,131.0,no,0.6,flat,0.0,reversible defect,1
+65.0,0,non-anginal pain,155.0,269.0,less than 120mg/ml,ST-T wave abnormality,148.0,no,0.8,downsloping,0.0,reversible defect,1
+42.0,0,non-anginal pain,120.0,209.0,less than 120mg/ml,ST-T wave abnormality,173.0,,0.0,flat,0.0,reversible defect,1
+44.0,1,typical angina,112.0,290.0,less than 120mg/ml,normal,153.0,no,0.0,downsloping,1.0,reversible defect,0
+56.0,1,typical angina,132.0,184.0,less than 120mg/ml,normal,105.0,yes,2.1,flat,1.0,fixed defect,0
+53.0,0,typical angina,138.0,234.0,less than 120mg/ml,normal,,no,0.0,downsloping,0.0,reversible defect,1
+50.0,0,typical angina,110.0,254.0,less than 120mg/ml,normal,159.0,no,0.0,downsloping,0.0,reversible defect,1
+41.0,1,non-anginal pain,130.0,214.0,less than 120mg/ml,normal,168.0,no,2.0,flat,0.0,reversible defect,1
+54.0,0,non-anginal pain,160.0,201.0,less than 120mg/ml,ST-T wave abnormality,163.0,no,0.0,downsloping,1.0,reversible defect,1
+42.0,1,non-anginal pain,120.0,240.0,greater than 120mg/ml,ST-T wave abnormality,194.0,no,0.8,upsloping,0.0,,1
+54.0,0,non-anginal pain,135.0,,greater than 120mg/ml,ST-T wave abnormality,170.0,no,0.0,downsloping,0.0,reversible defect,1
+60.0,1,typical angina,145.0,282.0,,normal,142.0,yes,2.8,flat,2.0,,0
+34.0,1,asymptomatic,118.0,182.0,less than 120mg/ml,normal,174.0,no,0.0,downsloping,0.0,reversible defect,1
+44.0,1,typical angina,112.0,290.0,less than 120mg/ml,normal,153.0,no,0.0,downsloping,1.0,reversible defect,0
+60.0,1,typical angina,125.0,258.0,less than 120mg/ml,normal,141.0,yes,2.8,flat,1.0,,0
+43.0,1,typical angina,150.0,247.0,less than 120mg/ml,ST-T wave abnormality,171.0,no,1.5,downsloping,0.0,reversible defect,1
+52.0,1,asymptomatic,152.0,298.0,greater than 120mg/ml,ST-T wave abnormality,178.0,no,1.2,flat,0.0,,1
+70.0,1,typical angina,130.0,322.0,less than 120mg/ml,normal,109.0,no,2.4,flat,3.0,reversible defect,0
+62.0,0,typical angina,,394.0,less than 120mg/ml,normal,157.0,no,1.2,flat,0.0,reversible defect,1
+58.0,1,typical angina,146.0,218.0,less than 120mg/ml,ST-T wave abnormality,105.0,no,2.0,flat,1.0,,0
+46.0,1,atypical angina,101.0,197.0,greater than 120mg/ml,ST-T wave abnormality,156.0,no,0.0,downsloping,0.0,,1
+,1,non-anginal pain,140.0,235.0,less than 120mg/ml,normal,180.0,no,0.0,downsloping,0.0,reversible defect,1
+55.0,1,atypical angina,130.0,262.0,less than 120mg/ml,ST-T wave abnormality,155.0,no,0.0,downsloping,0.0,reversible defect,1
+43.0,1,typical angina,120.0,177.0,less than 120mg/ml,normal,120.0,yes,2.5,flat,0.0,,0
+55.0,1,typical angina,132.0,353.0,less than 120mg/ml,ST-T wave abnormality,132.0,yes,1.2,flat,1.0,,0
+40.0,1,asymptomatic,140.0,199.0,less than 120mg/ml,ST-T wave abnormality,178.0,yes,1.4,downsloping,0.0,,1
+64.0,1,,125.0,309.0,less than 120mg/ml,ST-T wave abnormality,131.0,yes,1.8,flat,0.0,,0
+59.0,1,typical angina,164.0,176.0,greater than 120mg/ml,normal,90.0,no,1.0,flat,2.0,fixed defect,0
+61.0,0,typical angina,145.0,307.0,less than 120mg/ml,normal,146.0,yes,1.0,flat,0.0,,0
+54.0,1,typical angina,122.0,,less than 120mg/ml,normal,116.0,yes,3.2,flat,2.0,reversible defect,0
+74.0,,atypical angina,120.0,269.0,less than 120mg/ml,normal,121.0,,0.2,downsloping,1.0,reversible defect,1
+63.0,0,typical angina,108.0,269.0,less than 120mg/ml,ST-T wave abnormality,169.0,yes,1.8,flat,2.0,reversible defect,0
+70.0,1,non-anginal pain,160.0,269.0,less than 120mg/ml,ST-T wave abnormality,112.0,yes,,flat,1.0,,0
+63.0,0,typical angina,108.0,269.0,less than 120mg/ml,ST-T wave abnormality,169.0,yes,1.8,flat,2.0,reversible defect,0
+64.0,1,typical angina,145.0,212.0,less than 120mg/ml,normal,132.0,no,2.0,flat,2.0,fixed defect,0
+61.0,1,typical angina,148.0,203.0,less than 120mg/ml,ST-T wave abnormality,161.0,no,0.0,downsloping,1.0,,0
+59.0,1,atypical angina,140.0,221.0,less than 120mg/ml,ST-T wave abnormality,164.0,yes,0.0,downsloping,0.0,reversible defect,1
+38.0,1,non-anginal pain,138.0,175.0,less than 120mg/ml,ST-T wave abnormality,173.0,no,0.0,downsloping,4.0,reversible defect,1
+58.0,1,atypical angina,120.0,284.0,less than 120mg/ml,normal,160.0,no,1.8,flat,0.0,reversible defect,0
+63.0,0,atypical angina,140.0,195.0,less than 120mg/ml,ST-T wave abnormality,179.0,no,0.0,downsloping,2.0,reversible defect,1
+62.0,0,non-anginal pain,130.0,263.0,less than 120mg/ml,ST-T wave abnormality,97.0,no,1.2,flat,1.0,,0
+46.0,1,typical angina,140.0,311.0,less than 120mg/ml,ST-T wave abnormality,120.0,yes,1.8,flat,2.0,,0
+58.0,0,non-anginal pain,120.0,340.0,less than 120mg/ml,ST-T wave abnormality,172.0,no,0.0,downsloping,0.0,reversible defect,1
+63.0,0,atypical angina,140.0,195.0,less than 120mg/ml,ST-T wave abnormality,179.0,no,0.0,downsloping,2.0,reversible defect,1
+47.0,1,non-anginal pain,130.0,253.0,less than 120mg/ml,ST-T wave abnormality,179.0,no,,downsloping,0.0,reversible defect,1
+71.0,0,non-anginal pain,110.0,265.0,greater than 120mg/ml,normal,130.0,no,0.0,downsloping,1.0,reversible defect,1
+66.0,1,typical angina,112.0,212.0,less than 120mg/ml,normal,132.0,yes,0.1,downsloping,1.0,reversible defect,0
+42.0,1,typical angina,136.0,315.0,less than 120mg/ml,ST-T wave abnormality,125.0,yes,1.8,flat,0.0,fixed defect,0
+64.0,1,typical angina,145.0,212.0,less than 120mg/ml,normal,132.0,no,2.0,flat,2.0,fixed defect,0
+55.0,0,typical angina,180.0,327.0,less than 120mg/ml,left ventricular hypertrophy,117.0,yes,3.4,flat,0.0,reversible defect,0
+43.0,0,typical angina,132.0,341.0,greater than 120mg/ml,normal,136.0,yes,3.0,flat,0.0,,0
+55.0,0,typical angina,128.0,205.0,less than 120mg/ml,left ventricular hypertrophy,130.0,yes,2.0,flat,1.0,,0
+58.0,0,typical angina,170.0,225.0,greater than 120mg/ml,normal,146.0,yes,2.8,flat,2.0,fixed defect,0
+55.0,1,typical angina,140.0,217.0,less than 120mg/ml,ST-T wave abnormality,111.0,yes,5.6,upsloping,0.0,,0
+51.0,0,typical angina,130.0,305.0,less than 120mg/ml,ST-T wave abnormality,142.0,,1.2,flat,0.0,,0
+50.0,0,non-anginal pain,120.0,219.0,less than 120mg/ml,ST-T wave abnormality,158.0,no,1.6,flat,0.0,reversible defect,1
+43.0,1,,115.0,303.0,less than 120mg/ml,ST-T wave abnormality,181.0,no,1.2,,0.0,reversible defect,1
+41.0,0,atypical angina,126.0,306.0,less than 120mg/ml,ST-T wave abnormality,163.0,no,0.0,downsloping,0.0,reversible defect,1
+49.0,1,atypical angina,130.0,266.0,less than 120mg/ml,ST-T wave abnormality,171.0,no,0.6,downsloping,0.0,reversible defect,1
+65.0,1,typical angina,110.0,248.0,less than 120mg/ml,normal,158.0,no,0.6,downsloping,2.0,fixed defect,0
+57.0,1,typical angina,152.0,274.0,less than 120mg/ml,ST-T wave abnormality,88.0,yes,1.2,flat,1.0,,0
+48.0,1,typical angina,130.0,256.0,greater than 120mg/ml,normal,150.0,yes,0.0,downsloping,2.0,,0
+62.0,0,typical angina,138.0,294.0,greater than 120mg/ml,ST-T wave abnormality,106.0,no,1.9,flat,3.0,reversible defect,0
+61.0,1,asymptomatic,134.0,234.0,less than 120mg/ml,ST-T wave abnormality,145.0,no,2.6,flat,2.0,reversible defect,0
+59.0,1,asymptomatic,178.0,270.0,less than 120mg/ml,normal,145.0,no,4.2,,0.0,,1
+69.0,1,non-anginal pain,,254.0,less than 120mg/ml,normal,146.0,no,2.0,flat,,,0
+58.0,1,non-anginal pain,132.0,224.0,less than 120mg/ml,normal,173.0,no,3.2,downsloping,2.0,,0
+38.0,1,asymptomatic,120.0,231.0,less than 120mg/ml,ST-T wave abnormality,182.0,yes,3.8,flat,0.0,,0
+69.0,0,asymptomatic,140.0,239.0,less than 120mg/ml,ST-T wave abnormality,151.0,no,1.8,downsloping,2.0,reversible defect,1
+65.0,1,asymptomatic,138.0,282.0,greater than 120mg/ml,normal,174.0,no,1.4,flat,1.0,reversible defect,0
+45.0,1,asymptomatic,110.0,264.0,less than 120mg/ml,ST-T wave abnormality,132.0,no,1.2,flat,0.0,,0
+49.0,1,atypical angina,130.0,266.0,less than 120mg/ml,ST-T wave abnormality,171.0,no,0.6,downsloping,0.0,reversible defect,1
+45.0,0,atypical angina,130.0,234.0,less than 120mg/ml,normal,175.0,no,0.6,flat,0.0,reversible defect,1
+61.0,1,typical angina,138.0,166.0,,normal,125.0,yes,3.6,flat,1.0,reversible defect,0
+52.0,1,typical angina,125.0,212.0,less than 120mg/ml,ST-T wave abnormality,168.0,no,,downsloping,2.0,,0
+53.0,0,typical angina,130.0,264.0,less than 120mg/ml,normal,143.0,no,0.4,flat,,reversible defect,1
+59.0,0,typical angina,174.0,249.0,less than 120mg/ml,ST-T wave abnormality,143.0,yes,0.0,flat,0.0,reversible defect,0
+58.0,0,non-anginal pain,120.0,340.0,less than 120mg/ml,ST-T wave abnormality,172.0,no,,downsloping,0.0,reversible defect,1
+65.0,1,asymptomatic,138.0,282.0,greater than 120mg/ml,normal,174.0,no,1.4,flat,1.0,reversible defect,0
+58.0,0,typical angina,130.0,197.0,less than 120mg/ml,ST-T wave abnormality,131.0,no,0.6,flat,0.0,reversible defect,1
+46.0,0,typical angina,138.0,243.0,less than 120mg/ml,normal,152.0,yes,0.0,flat,0.0,reversible defect,1
+56.0,0,typical angina,134.0,409.0,less than 120mg/ml,normal,150.0,yes,1.9,flat,2.0,,0
+64.0,1,typical angina,128.0,,less than 120mg/ml,ST-T wave abnormality,105.0,yes,0.2,flat,1.0,,1
+65.0,1,typical angina,120.0,177.0,less than 120mg/ml,ST-T wave abnormality,140.0,no,,downsloping,0.0,,1
+44.0,1,non-anginal pain,120.0,226.0,less than 120mg/ml,ST-T wave abnormality,169.0,no,0.0,downsloping,0.0,reversible defect,1
+50.0,1,typical angina,150.0,243.0,less than 120mg/ml,normal,128.0,no,,flat,0.0,,0
+47.0,1,non-anginal pain,108.0,243.0,less than 120mg/ml,ST-T wave abnormality,152.0,no,0.0,downsloping,0.0,reversible defect,0
+64.0,0,typical angina,130.0,303.0,less than 120mg/ml,ST-T wave abnormality,122.0,no,2.0,flat,2.0,reversible defect,1
+71.0,0,typical angina,112.0,149.0,less than 120mg/ml,ST-T wave abnormality,125.0,no,1.6,flat,0.0,reversible defect,1
+45.0,0,atypical angina,130.0,234.0,less than 120mg/ml,normal,175.0,no,0.6,flat,0.0,reversible defect,1
+62.0,,typical angina,120.0,267.0,less than 120mg/ml,ST-T wave abnormality,99.0,yes,1.8,flat,2.0,,0
+41.0,1,atypical angina,120.0,157.0,less than 120mg/ml,ST-T wave abnormality,182.0,no,0.0,downsloping,0.0,reversible defect,1
+66.0,0,asymptomatic,150.0,226.0,less than 120mg/ml,ST-T wave abnormality,114.0,no,2.6,upsloping,0.0,reversible defect,1
+56.0,1,typical angina,130.0,283.0,greater than 120mg/ml,normal,103.0,yes,1.6,upsloping,0.0,,0
+41.0,0,atypical angina,126.0,306.0,less than 120mg/ml,ST-T wave abnormality,163.0,no,0.0,downsloping,0.0,reversible defect,1
+41.0,1,atypical angina,110.0,235.0,less than 120mg/ml,ST-T wave abnormality,153.0,no,0.0,downsloping,0.0,reversible defect,1
+57.0,0,atypical angina,130.0,,less than 120mg/ml,normal,174.0,no,0.0,flat,1.0,reversible defect,0
+39.0,0,non-anginal pain,138.0,220.0,less than 120mg/ml,ST-T wave abnormality,152.0,no,0.0,flat,0.0,reversible defect,1
+64.0,1,non-anginal pain,125.0,,less than 120mg/ml,ST-T wave abnormality,131.0,yes,1.8,flat,,,0
+59.0,1,typical angina,138.0,271.0,less than 120mg/ml,normal,182.0,no,0.0,downsloping,0.0,reversible defect,1
+61.0,1,typical angina,138.0,166.0,less than 120mg/ml,,125.0,yes,3.6,flat,1.0,reversible defect,0
+58.0,1,typical angina,114.0,318.0,,left ventricular hypertrophy,140.0,no,4.4,upsloping,3.0,fixed defect,0
+47.0,1,typical angina,112.0,204.0,less than 120mg/ml,ST-T wave abnormality,143.0,no,0.1,downsloping,0.0,reversible defect,1
+58.0,0,typical angina,100.0,,less than 120mg/ml,normal,122.0,no,1.0,flat,0.0,reversible defect,1
+66.0,0,asymptomatic,150.0,226.0,less than 120mg/ml,ST-T wave abnormality,114.0,no,2.6,upsloping,,reversible defect,1
+65.0,0,non-anginal pain,140.0,417.0,greater than 120mg/ml,,157.0,no,0.8,downsloping,1.0,reversible defect,1
+35.0,1,atypical angina,,192.0,less than 120mg/ml,ST-T wave abnormality,174.0,no,0.0,downsloping,0.0,reversible defect,1
+57.0,1,atypical angina,,261.0,less than 120mg/ml,ST-T wave abnormality,141.0,no,0.3,downsloping,0.0,,0
+,1,atypical angina,130.0,204.0,less than 120mg/ml,normal,202.0,no,0.0,downsloping,0.0,reversible defect,1
+66.0,1,atypical angina,160.0,246.0,less than 120mg/ml,ST-T wave abnormality,120.0,yes,0.0,flat,3.0,fixed defect,0
+61.0,0,typical angina,130.0,330.0,less than 120mg/ml,normal,169.0,no,0.0,downsloping,0.0,reversible defect,0
+52.0,1,typical angina,,212.0,less than 120mg/ml,ST-T wave abnormality,168.0,no,1.0,downsloping,2.0,,0
+68.0,1,non-anginal pain,,277.0,less than 120mg/ml,ST-T wave abnormality,151.0,no,1.0,downsloping,1.0,,1
+54.0,,non-anginal pain,120.0,258.0,less than 120mg/ml,normal,147.0,no,0.4,flat,0.0,,1
+63.0,1,typical angina,130.0,330.0,greater than 120mg/ml,normal,132.0,yes,1.8,downsloping,3.0,,0
+58.0,1,typical angina,100.0,234.0,less than 120mg/ml,ST-T wave abnormality,156.0,no,0.1,downsloping,1.0,,0
+60.0,1,typical angina,130.0,253.0,less than 120mg/ml,ST-T wave abnormality,144.0,yes,1.4,downsloping,1.0,,0
+63.0,,typical angina,130.0,254.0,less than 120mg/ml,normal,,no,1.4,flat,1.0,,0
+,0,non-anginal pain,112.0,268.0,less than 120mg/ml,normal,172.0,yes,0.0,downsloping,0.0,reversible defect,1
+68.0,1,non-anginal pain,180.0,,greater than 120mg/ml,normal,150.0,yes,1.6,flat,,,0
+42.0,1,atypical angina,120.0,295.0,less than 120mg/ml,ST-T wave abnormality,162.0,no,0.0,downsloping,0.0,reversible defect,1
+59.0,1,typical angina,170.0,326.0,less than 120mg/ml,normal,140.0,yes,3.4,upsloping,0.0,,0
+59.0,1,typical angina,164.0,176.0,greater than 120mg/ml,normal,90.0,no,1.0,flat,2.0,fixed defect,0
+43.0,1,typical angina,120.0,177.0,less than 120mg/ml,normal,120.0,yes,2.5,flat,0.0,,0
+60.0,1,non-anginal pain,140.0,185.0,less than 120mg/ml,normal,155.0,no,3.0,flat,0.0,reversible defect,0
+63.0,0,typical angina,150.0,407.0,less than 120mg/ml,normal,154.0,no,4.0,flat,3.0,,0
+52.0,1,typical angina,128.0,204.0,greater than 120mg/ml,ST-T wave abnormality,156.0,yes,1.0,flat,0.0,normal,0
+58.0,1,typical angina,125.0,300.0,,normal,171.0,no,0.0,downsloping,2.0,,0
+56.0,0,typical angina,200.0,288.0,greater than 120mg/ml,normal,133.0,yes,4.0,upsloping,2.0,,0
+54.0,0,non-anginal pain,135.0,304.0,greater than 120mg/ml,ST-T wave abnormality,170.0,no,0.0,downsloping,0.0,reversible defect,1
+58.0,1,non-anginal pain,105.0,240.0,less than 120mg/ml,normal,154.0,yes,0.6,flat,0.0,,1
+,0,atypical angina,135.0,250.0,less than 120mg/ml,normal,161.0,no,1.4,flat,0.0,reversible defect,1
+53.0,,typical angina,140.0,203.0,greater than 120mg/ml,normal,155.0,yes,3.1,upsloping,0.0,,0
+63.0,0,atypical angina,140.0,195.0,less than 120mg/ml,ST-T wave abnormality,179.0,no,0.0,downsloping,2.0,reversible defect,1
+39.0,1,typical angina,118.0,219.0,less than 120mg/ml,ST-T wave abnormality,140.0,no,1.2,flat,0.0,,0
+35.0,1,typical angina,126.0,282.0,less than 120mg/ml,normal,156.0,yes,0.0,downsloping,0.0,,0
+50.0,0,non-anginal pain,120.0,219.0,less than 120mg/ml,ST-T wave abnormality,,no,,flat,0.0,reversible defect,1
+67.0,1,non-anginal pain,152.0,212.0,less than 120mg/ml,normal,150.0,no,0.8,flat,0.0,,0
+66.0,1,typical angina,112.0,212.0,less than 120mg/ml,normal,132.0,yes,0.1,downsloping,1.0,reversible defect,0
+35.0,1,typical angina,126.0,282.0,less than 120mg/ml,normal,156.0,yes,0.0,downsloping,0.0,,0
+41.0,1,non-anginal pain,130.0,214.0,less than 120mg/ml,normal,168.0,no,2.0,flat,0.0,reversible defect,1
+35.0,1,,120.0,198.0,less than 120mg/ml,ST-T wave abnormality,130.0,yes,1.6,flat,0.0,,0
+71.0,0,atypical angina,160.0,302.0,less than 120mg/ml,ST-T wave abnormality,162.0,no,0.4,downsloping,2.0,reversible defect,1
+57.0,1,typical angina,110.0,201.0,less than 120mg/ml,ST-T wave abnormality,126.0,yes,,flat,0.0,fixed defect,1
+51.0,1,non-anginal pain,94.0,227.0,,ST-T wave abnormality,154.0,yes,0.0,downsloping,1.0,,1
+58.0,1,typical angina,128.0,216.0,less than 120mg/ml,normal,131.0,yes,2.2,flat,3.0,,0
+57.0,1,non-anginal pain,128.0,229.0,less than 120mg/ml,normal,150.0,no,0.4,flat,1.0,,0
+,0,atypical angina,140.0,294.0,less than 120mg/ml,normal,153.0,no,1.3,flat,0.0,reversible defect,1
+60.0,0,non-anginal pain,120.0,178.0,greater than 120mg/ml,ST-T wave abnormality,96.0,no,0.0,downsloping,0.0,reversible defect,1
+45.0,1,asymptomatic,110.0,264.0,less than 120mg/ml,ST-T wave abnormality,132.0,no,1.2,flat,0.0,,0
+56.0,1,atypical angina,130.0,221.0,less than 120mg/ml,normal,163.0,no,0.0,downsloping,0.0,,1
+35.0,1,typical angina,120.0,198.0,less than 120mg/ml,ST-T wave abnormality,130.0,yes,1.6,flat,0.0,,0
+45.0,0,atypical angina,112.0,160.0,less than 120mg/ml,ST-T wave abnormality,138.0,no,0.0,flat,0.0,reversible defect,1
+66.0,0,asymptomatic,150.0,226.0,less than 120mg/ml,ST-T wave abnormality,114.0,no,2.6,upsloping,0.0,reversible defect,1
+51.0,1,asymptomatic,125.0,213.0,less than 120mg/ml,normal,125.0,yes,1.4,downsloping,1.0,reversible defect,1
+70.0,1,atypical angina,156.0,245.0,less than 120mg/ml,normal,143.0,no,0.0,downsloping,,reversible defect,1
+55.0,0,typical angina,128.0,205.0,less than 120mg/ml,left ventricular hypertrophy,130.0,yes,2.0,flat,1.0,,0
+56.0,1,non-anginal pain,130.0,256.0,greater than 120mg/ml,normal,142.0,yes,0.6,flat,1.0,fixed defect,0
+55.0,0,atypical angina,135.0,250.0,less than 120mg/ml,normal,161.0,no,1.4,flat,0.0,reversible defect,1
+52.0,1,typical angina,108.0,233.0,greater than 120mg/ml,ST-T wave abnormality,147.0,no,0.1,downsloping,3.0,,1
+64.0,1,non-anginal pain,140.0,335.0,less than 120mg/ml,ST-T wave abnormality,158.0,no,0.0,downsloping,0.0,reversible defect,0
+45.0,1,typical angina,115.0,260.0,less than 120mg/ml,normal,185.0,no,0.0,downsloping,0.0,reversible defect,1
+67.0,0,non-anginal pain,152.0,277.0,less than 120mg/ml,ST-T wave abnormality,172.0,no,0.0,downsloping,1.0,reversible defect,1
+68.0,0,non-anginal pain,120.0,211.0,less than 120mg/ml,normal,115.0,no,1.5,flat,0.0,reversible defect,1
+74.0,0,atypical angina,120.0,269.0,less than 120mg/ml,normal,121.0,yes,0.2,downsloping,,reversible defect,1
+60.0,0,typical angina,150.0,258.0,less than 120mg/ml,normal,157.0,no,2.6,flat,2.0,,0
+,1,typical angina,124.0,,less than 120mg/ml,normal,166.0,no,0.5,flat,0.0,,0
+56.0,1,atypical angina,130.0,221.0,less than 120mg/ml,normal,163.0,no,0.0,downsloping,0.0,,1
+46.0,1,typical angina,140.0,311.0,less than 120mg/ml,ST-T wave abnormality,120.0,yes,1.8,flat,2.0,,0
+55.0,0,atypical angina,135.0,250.0,less than 120mg/ml,normal,161.0,no,1.4,flat,0.0,reversible defect,1
+44.0,1,atypical angina,120.0,220.0,less than 120mg/ml,ST-T wave abnormality,170.0,no,0.0,downsloping,0.0,reversible defect,1
+52.0,1,,112.0,230.0,less than 120mg/ml,ST-T wave abnormality,160.0,no,0.0,downsloping,1.0,reversible defect,0
+51.0,1,non-anginal pain,94.0,227.0,less than 120mg/ml,ST-T wave abnormality,154.0,yes,0.0,downsloping,1.0,,1
+44.0,0,non-anginal pain,108.0,141.0,less than 120mg/ml,ST-T wave abnormality,175.0,no,,flat,,reversible defect,1
+52.0,1,typical angina,128.0,204.0,greater than 120mg/ml,ST-T wave abnormality,156.0,yes,1.0,flat,0.0,normal,0
+50.0,1,non-anginal pain,129.0,,less than 120mg/ml,,163.0,no,0.0,downsloping,0.0,reversible defect,1
+59.0,1,typical angina,,239.0,less than 120mg/ml,normal,142.0,yes,1.2,flat,1.0,,0
+67.0,,typical angina,120.0,229.0,less than 120mg/ml,normal,129.0,yes,2.6,flat,2.0,,0
+58.0,1,typical angina,125.0,300.0,less than 120mg/ml,normal,171.0,no,0.0,downsloping,2.0,,0
+52.0,1,typical angina,128.0,255.0,less than 120mg/ml,ST-T wave abnormality,161.0,yes,0.0,downsloping,1.0,,0
+44.0,1,non-anginal pain,140.0,235.0,less than 120mg/ml,normal,180.0,no,0.0,downsloping,0.0,reversible defect,1
+41.0,0,non-anginal pain,112.0,268.0,less than 120mg/ml,normal,172.0,,0.0,,0.0,reversible defect,1
+63.0,1,typical angina,130.0,330.0,greater than 120mg/ml,normal,132.0,yes,1.8,downsloping,3.0,,0
+58.0,1,atypical angina,125.0,220.0,less than 120mg/ml,ST-T wave abnormality,144.0,no,0.4,flat,4.0,,1
+60.0,0,non-anginal pain,102.0,318.0,less than 120mg/ml,ST-T wave abnormality,160.0,no,0.0,downsloping,1.0,reversible defect,1
+51.0,1,non-anginal pain,100.0,222.0,less than 120mg/ml,,143.0,yes,1.2,flat,0.0,reversible defect,1
+64.0,1,non-anginal pain,140.0,335.0,less than 120mg/ml,ST-T wave abnormality,158.0,no,0.0,downsloping,0.0,reversible defect,0
+60.0,1,typical angina,117.0,230.0,greater than 120mg/ml,ST-T wave abnormality,160.0,yes,1.4,downsloping,2.0,,0
+44.0,1,non-anginal pain,120.0,226.0,less than 120mg/ml,ST-T wave abnormality,169.0,no,0.0,downsloping,0.0,reversible defect,1
+58.0,1,atypical angina,125.0,220.0,less than 120mg/ml,ST-T wave abnormality,144.0,no,0.4,,4.0,,1
+55.0,1,atypical angina,130.0,262.0,less than 120mg/ml,ST-T wave abnormality,155.0,no,0.0,downsloping,0.0,reversible defect,1
+65.0,0,non-anginal pain,160.0,360.0,less than 120mg/ml,normal,151.0,no,0.8,downsloping,0.0,reversible defect,1
+48.0,1,atypical angina,130.0,245.0,less than 120mg/ml,normal,180.0,no,0.2,flat,0.0,reversible defect,1
+65.0,1,typical angina,120.0,177.0,less than 120mg/ml,ST-T wave abnormality,140.0,no,0.4,downsloping,0.0,,1
+51.0,0,non-anginal pain,,256.0,less than 120mg/ml,normal,149.0,no,0.5,downsloping,0.0,reversible defect,1
+,1,non-anginal pain,124.0,255.0,greater than 120mg/ml,ST-T wave abnormality,175.0,no,0.0,downsloping,2.0,reversible defect,1
+64.0,1,typical angina,120.0,,less than 120mg/ml,normal,96.0,yes,2.2,upsloping,1.0,reversible defect,0
+66.0,1,typical angina,160.0,228.0,less than 120mg/ml,normal,138.0,no,2.3,downsloping,0.0,fixed defect,1
+46.0,0,atypical angina,105.0,204.0,less than 120mg/ml,ST-T wave abnormality,172.0,no,0.0,downsloping,0.0,reversible defect,1
+61.0,0,typical angina,130.0,330.0,less than 120mg/ml,normal,169.0,no,,downsloping,0.0,reversible defect,0
+57.0,1,typical angina,150.0,276.0,less than 120mg/ml,normal,112.0,,0.6,flat,1.0,fixed defect,0
+49.0,0,typical angina,130.0,269.0,less than 120mg/ml,ST-T wave abnormality,163.0,no,0.0,downsloping,0.0,reversible defect,1
+56.0,1,atypical angina,130.0,221.0,less than 120mg/ml,normal,163.0,no,0.0,downsloping,0.0,,1
+58.0,0,,150.0,283.0,greater than 120mg/ml,normal,162.0,,1.0,downsloping,0.0,reversible defect,1
+63.0,1,typical angina,140.0,187.0,less than 120mg/ml,normal,144.0,yes,4.0,downsloping,2.0,,0
+57.0,1,typical angina,110.0,335.0,less than 120mg/ml,ST-T wave abnormality,143.0,yes,3.0,flat,1.0,,0
+57.0,1,typical angina,110.0,335.0,less than 120mg/ml,ST-T wave abnormality,143.0,,3.0,flat,1.0,,0
+68.0,1,typical angina,144.0,193.0,greater than 120mg/ml,ST-T wave abnormality,141.0,no,3.4,flat,2.0,,0
+,1,atypical angina,101.0,197.0,greater than 120mg/ml,,156.0,no,0.0,downsloping,0.0,,1
+71.0,0,non-anginal pain,110.0,265.0,,normal,130.0,,0.0,downsloping,1.0,reversible defect,1
+41.0,1,atypical angina,135.0,203.0,less than 120mg/ml,ST-T wave abnormality,132.0,no,0.0,flat,0.0,fixed defect,1
+45.0,0,,,236.0,less than 120mg/ml,normal,152.0,yes,0.2,flat,0.0,reversible defect,1
+62.0,,typical angina,150.0,244.0,less than 120mg/ml,ST-T wave abnormality,154.0,yes,1.4,flat,0.0,reversible defect,0
+65.0,0,typical angina,150.0,225.0,less than 120mg/ml,normal,114.0,,1.0,flat,3.0,,0
+48.0,0,non-anginal pain,130.0,275.0,less than 120mg/ml,ST-T wave abnormality,139.0,no,0.2,downsloping,0.0,reversible defect,1
+51.0,1,non-anginal pain,100.0,222.0,,,143.0,yes,1.2,flat,0.0,reversible defect,1
+,0,typical angina,145.0,307.0,less than 120mg/ml,normal,146.0,yes,1.0,flat,0.0,,0
+53.0,1,typical angina,123.0,282.0,less than 120mg/ml,ST-T wave abnormality,95.0,yes,2.0,flat,2.0,,0
+59.0,1,asymptomatic,134.0,204.0,less than 120mg/ml,ST-T wave abnormality,162.0,no,0.8,downsloping,2.0,reversible defect,0
+34.0,0,atypical angina,118.0,210.0,less than 120mg/ml,ST-T wave abnormality,192.0,no,0.7,downsloping,0.0,reversible defect,1
+44.0,1,typical angina,120.0,,less than 120mg/ml,ST-T wave abnormality,144.0,yes,2.8,upsloping,0.0,fixed defect,0
+58.0,1,typical angina,146.0,218.0,less than 120mg/ml,ST-T wave abnormality,105.0,,2.0,flat,1.0,,0
+64.0,0,typical angina,130.0,303.0,less than 120mg/ml,ST-T wave abnormality,122.0,no,2.0,flat,2.0,reversible defect,1
+56.0,1,atypical angina,120.0,240.0,less than 120mg/ml,ST-T wave abnormality,169.0,no,0.0,upsloping,0.0,reversible defect,1
+54.0,1,non-anginal pain,150.0,232.0,less than 120mg/ml,normal,165.0,no,1.6,downsloping,0.0,,1
+55.0,1,typical angina,160.0,289.0,less than 120mg/ml,normal,145.0,yes,0.8,flat,1.0,,0
+67.0,1,typical angina,125.0,254.0,greater than 120mg/ml,ST-T wave abnormality,163.0,no,0.2,flat,2.0,,0
+51.0,1,typical angina,140.0,298.0,less than 120mg/ml,ST-T wave abnormality,122.0,yes,4.2,flat,3.0,,0
+62.0,0,typical angina,138.0,294.0,greater than 120mg/ml,ST-T wave abnormality,106.0,no,1.9,flat,3.0,reversible defect,0
+62.0,1,atypical angina,120.0,281.0,less than 120mg/ml,normal,,no,1.4,,1.0,,0
+54.0,1,typical angina,110.0,239.0,less than 120mg/ml,ST-T wave abnormality,126.0,yes,2.8,flat,1.0,,0
+54.0,1,typical angina,110.0,239.0,less than 120mg/ml,ST-T wave abnormality,,yes,2.8,flat,1.0,,0
+68.0,1,typical angina,144.0,193.0,,ST-T wave abnormality,141.0,no,3.4,flat,2.0,,0
+60.0,0,non-anginal pain,120.0,178.0,greater than 120mg/ml,ST-T wave abnormality,96.0,no,0.0,downsloping,0.0,reversible defect,1
+61.0,1,asymptomatic,134.0,234.0,less than 120mg/ml,ST-T wave abnormality,145.0,no,2.6,flat,2.0,reversible defect,0
+62.0,1,atypical angina,128.0,208.0,greater than 120mg/ml,normal,140.0,no,0.0,downsloping,0.0,reversible defect,1
+41.0,1,atypical angina,135.0,203.0,less than 120mg/ml,ST-T wave abnormality,132.0,no,0.0,flat,0.0,fixed defect,1
+65.0,0,typical angina,150.0,225.0,less than 120mg/ml,normal,114.0,no,1.0,flat,3.0,,0
+59.0,1,asymptomatic,170.0,288.0,less than 120mg/ml,normal,159.0,no,0.2,flat,0.0,,0
+43.0,1,typical angina,115.0,303.0,less than 120mg/ml,ST-T wave abnormality,181.0,no,1.2,flat,0.0,reversible defect,1
+67.0,1,typical angina,120.0,229.0,less than 120mg/ml,normal,129.0,yes,2.6,flat,2.0,,0
+63.0,1,asymptomatic,,233.0,greater than 120mg/ml,normal,150.0,no,2.3,upsloping,0.0,fixed defect,1
+63.0,0,typical angina,124.0,197.0,less than 120mg/ml,ST-T wave abnormality,136.0,yes,0.0,flat,0.0,reversible defect,0
+52.0,1,typical angina,112.0,230.0,less than 120mg/ml,ST-T wave abnormality,160.0,no,0.0,downsloping,1.0,reversible defect,0
+58.0,0,typical angina,130.0,197.0,,ST-T wave abnormality,131.0,no,0.6,flat,0.0,reversible defect,1
+53.0,1,typical angina,142.0,226.0,less than 120mg/ml,normal,111.0,yes,0.0,downsloping,0.0,,1
+57.0,1,typical angina,150.0,276.0,less than 120mg/ml,normal,112.0,yes,0.6,flat,1.0,fixed defect,0
+44.0,1,non-anginal pain,130.0,233.0,less than 120mg/ml,ST-T wave abnormality,179.0,yes,0.4,downsloping,0.0,reversible defect,1
+51.0,1,non-anginal pain,94.0,227.0,less than 120mg/ml,ST-T wave abnormality,154.0,yes,0.0,downsloping,1.0,,1
+,0,non-anginal pain,110.0,214.0,less than 120mg/ml,ST-T wave abnormality,158.0,no,1.6,flat,0.0,reversible defect,1
+40.0,1,typical angina,110.0,167.0,less than 120mg/ml,normal,114.0,yes,2.0,flat,0.0,,0
+57.0,1,atypical angina,124.0,261.0,less than 120mg/ml,ST-T wave abnormality,141.0,no,0.3,downsloping,0.0,,0
+62.0,0,typical angina,140.0,268.0,less than 120mg/ml,normal,160.0,no,3.6,upsloping,2.0,reversible defect,0
+53.0,1,typical angina,140.0,203.0,greater than 120mg/ml,normal,155.0,yes,3.1,,,,0
+62.0,1,atypical angina,128.0,208.0,greater than 120mg/ml,normal,140.0,no,0.0,downsloping,0.0,,1
+58.0,1,non-anginal pain,105.0,240.0,,normal,154.0,yes,0.6,flat,0.0,,1
+70.0,1,atypical angina,156.0,245.0,less than 120mg/ml,normal,143.0,,0.0,downsloping,0.0,reversible defect,1
+45.0,1,typical angina,115.0,260.0,less than 120mg/ml,normal,185.0,no,0.0,downsloping,0.0,reversible defect,1
+42.0,1,asymptomatic,148.0,244.0,less than 120mg/ml,normal,178.0,no,0.8,downsloping,2.0,reversible defect,1
+58.0,0,typical angina,170.0,225.0,greater than 120mg/ml,normal,146.0,yes,2.8,flat,2.0,fixed defect,0
+61.0,1,typical angina,140.0,207.0,less than 120mg/ml,normal,138.0,yes,1.9,downsloping,1.0,,0
+62.0,0,typical angina,140.0,268.0,less than 120mg/ml,normal,160.0,no,3.6,,2.0,reversible defect,0
+60.0,1,typical angina,130.0,253.0,less than 120mg/ml,ST-T wave abnormality,144.0,yes,1.4,downsloping,1.0,,0
+54.0,1,typical angina,140.0,239.0,less than 120mg/ml,ST-T wave abnormality,160.0,no,1.2,downsloping,0.0,reversible defect,1
+61.0,1,typical angina,138.0,166.0,less than 120mg/ml,normal,125.0,yes,3.6,flat,1.0,reversible defect,0
+63.0,0,non-anginal pain,135.0,252.0,less than 120mg/ml,normal,172.0,no,,downsloping,0.0,reversible defect,1
+42.0,,,130.0,180.0,less than 120mg/ml,ST-T wave abnormality,150.0,no,0.0,downsloping,0.0,reversible defect,1
+57.0,1,non-anginal pain,128.0,229.0,less than 120mg/ml,normal,150.0,no,0.4,flat,1.0,,0
+44.0,1,non-anginal pain,,233.0,less than 120mg/ml,ST-T wave abnormality,179.0,yes,0.4,downsloping,0.0,reversible defect,1
+54.0,1,typical angina,124.0,266.0,less than 120mg/ml,normal,109.0,yes,2.2,flat,1.0,,0
+51.0,1,non-anginal pain,100.0,222.0,less than 120mg/ml,ST-T wave abnormality,143.0,yes,1.2,flat,0.0,reversible defect,1
+58.0,1,atypical angina,125.0,220.0,less than 120mg/ml,ST-T wave abnormality,144.0,no,0.4,flat,4.0,,1
+68.0,,non-anginal pain,118.0,277.0,less than 120mg/ml,ST-T wave abnormality,151.0,no,1.0,downsloping,1.0,,1
+55.0,1,,140.0,217.0,less than 120mg/ml,ST-T wave abnormality,111.0,yes,5.6,upsloping,0.0,,0
+42.0,1,typical angina,136.0,315.0,less than 120mg/ml,ST-T wave abnormality,125.0,yes,1.8,flat,0.0,fixed defect,0
+49.0,1,non-anginal pain,118.0,149.0,less than 120mg/ml,normal,126.0,no,0.8,downsloping,3.0,reversible defect,0
+53.0,0,typical angina,138.0,234.0,less than 120mg/ml,normal,160.0,no,0.0,downsloping,0.0,reversible defect,1
+52.0,1,non-anginal pain,172.0,199.0,greater than 120mg/ml,ST-T wave abnormality,162.0,no,0.5,downsloping,0.0,,1
+51.0,1,asymptomatic,125.0,213.0,less than 120mg/ml,normal,125.0,yes,1.4,downsloping,1.0,reversible defect,1
+51.0,1,typical angina,140.0,261.0,less than 120mg/ml,normal,186.0,yes,0.0,downsloping,,reversible defect,1
+70.0,1,typical angina,145.0,174.0,less than 120mg/ml,ST-T wave abnormality,125.0,yes,2.6,upsloping,0.0,,0
+35.0,0,,138.0,183.0,less than 120mg/ml,ST-T wave abnormality,182.0,no,1.4,downsloping,0.0,reversible defect,1
+58.0,1,non-anginal pain,112.0,,,normal,165.0,no,2.5,flat,1.0,,0
+59.0,1,asymptomatic,160.0,273.0,less than 120mg/ml,normal,125.0,no,0.0,downsloping,,reversible defect,0
+60.0,1,typical angina,140.0,293.0,less than 120mg/ml,normal,170.0,no,1.2,flat,2.0,,0
+56.0,1,typical angina,132.0,184.0,less than 120mg/ml,normal,105.0,yes,2.1,flat,1.0,fixed defect,0
+35.0,0,typical angina,138.0,183.0,less than 120mg/ml,ST-T wave abnormality,182.0,no,1.4,downsloping,0.0,reversible defect,1
+61.0,1,typical angina,138.0,166.0,less than 120mg/ml,normal,125.0,yes,3.6,flat,1.0,reversible defect,0
+58.0,0,asymptomatic,150.0,283.0,greater than 120mg/ml,normal,162.0,no,1.0,downsloping,0.0,reversible defect,1
+52.0,1,typical angina,128.0,255.0,less than 120mg/ml,ST-T wave abnormality,161.0,yes,0.0,downsloping,1.0,,0
+58.0,,atypical angina,120.0,284.0,less than 120mg/ml,normal,160.0,no,1.8,flat,0.0,reversible defect,0
+37.0,1,non-anginal pain,130.0,250.0,,ST-T wave abnormality,187.0,no,3.5,upsloping,0.0,reversible defect,1
+52.0,1,typical angina,128.0,255.0,less than 120mg/ml,ST-T wave abnormality,161.0,yes,0.0,downsloping,1.0,,0
+67.0,1,typical angina,120.0,229.0,less than 120mg/ml,normal,129.0,yes,2.6,flat,2.0,,0
+65.0,1,asymptomatic,138.0,282.0,greater than 120mg/ml,normal,174.0,no,1.4,flat,1.0,reversible defect,0
+46.0,1,atypical angina,101.0,197.0,greater than 120mg/ml,ST-T wave abnormality,156.0,no,0.0,downsloping,0.0,,1
+68.0,0,non-anginal pain,120.0,211.0,less than 120mg/ml,normal,115.0,no,1.5,flat,0.0,reversible defect,1
+43.0,1,typical angina,115.0,303.0,less than 120mg/ml,ST-T wave abnormality,181.0,no,,,0.0,reversible defect,1
+68.0,0,non-anginal pain,120.0,211.0,less than 120mg/ml,normal,115.0,,1.5,flat,0.0,,1
+51.0,1,typical angina,140.0,299.0,less than 120mg/ml,ST-T wave abnormality,173.0,yes,1.6,downsloping,0.0,,0
+52.0,1,typical angina,112.0,230.0,less than 120mg/ml,ST-T wave abnormality,160.0,no,0.0,downsloping,1.0,reversible defect,0
+,1,non-anginal pain,140.0,335.0,less than 120mg/ml,ST-T wave abnormality,158.0,no,0.0,downsloping,0.0,reversible defect,0
+59.0,1,asymptomatic,170.0,288.0,less than 120mg/ml,normal,159.0,no,0.2,flat,0.0,,0
+52.0,1,typical angina,125.0,212.0,less than 120mg/ml,ST-T wave abnormality,168.0,no,1.0,downsloping,2.0,,0
+59.0,1,,160.0,,less than 120mg/ml,normal,125.0,no,0.0,downsloping,0.0,reversible defect,0
+60.0,0,asymptomatic,150.0,240.0,less than 120mg/ml,ST-T wave abnormality,171.0,no,0.9,downsloping,0.0,reversible defect,1
+41.0,1,non-anginal pain,112.0,250.0,less than 120mg/ml,ST-T wave abnormality,179.0,no,0.0,downsloping,0.0,reversible defect,1
+41.0,1,atypical angina,110.0,235.0,less than 120mg/ml,ST-T wave abnormality,153.0,no,0.0,downsloping,0.0,reversible defect,1
+56.0,1,atypical angina,120.0,240.0,less than 120mg/ml,ST-T wave abnormality,,no,0.0,upsloping,0.0,reversible defect,1
+56.0,1,atypical angina,120.0,236.0,less than 120mg/ml,ST-T wave abnormality,178.0,no,0.8,downsloping,0.0,reversible defect,1
+48.0,0,non-anginal pain,130.0,275.0,less than 120mg/ml,ST-T wave abnormality,139.0,no,0.2,downsloping,,reversible defect,1
+39.0,1,,140.0,321.0,,normal,182.0,no,0.0,downsloping,0.0,reversible defect,1
+64.0,1,asymptomatic,170.0,227.0,less than 120mg/ml,normal,155.0,no,0.6,flat,0.0,,1
+57.0,1,typical angina,140.0,192.0,less than 120mg/ml,ST-T wave abnormality,148.0,no,0.4,flat,0.0,fixed defect,1
+59.0,1,asymptomatic,160.0,273.0,less than 120mg/ml,normal,125.0,no,0.0,downsloping,0.0,reversible defect,0
+60.0,1,typical angina,130.0,206.0,less than 120mg/ml,normal,132.0,yes,2.4,flat,2.0,,0
+61.0,1,typical angina,140.0,207.0,less than 120mg/ml,normal,138.0,yes,1.9,downsloping,1.0,,0
+43.0,0,non-anginal pain,122.0,213.0,less than 120mg/ml,ST-T wave abnormality,165.0,no,0.2,flat,0.0,reversible defect,1
+54.0,1,typical angina,120.0,188.0,less than 120mg/ml,ST-T wave abnormality,113.0,no,1.4,flat,1.0,,0
+59.0,1,typical angina,138.0,271.0,less than 120mg/ml,normal,182.0,no,0.0,downsloping,0.0,reversible defect,1
+57.0,1,typical angina,132.0,207.0,less than 120mg/ml,ST-T wave abnormality,168.0,yes,0.0,downsloping,0.0,,1
+57.0,1,atypical angina,154.0,232.0,less than 120mg/ml,normal,164.0,no,0.0,downsloping,1.0,reversible defect,0
+57.0,1,typical angina,,131.0,less than 120mg/ml,ST-T wave abnormality,115.0,,1.2,flat,1.0,,0
+48.0,1,typical angina,124.0,274.0,less than 120mg/ml,normal,166.0,no,0.5,flat,0.0,,0
+70.0,1,typical angina,145.0,174.0,less than 120mg/ml,ST-T wave abnormality,125.0,yes,2.6,upsloping,0.0,,0
+57.0,1,typical angina,165.0,289.0,greater than 120mg/ml,normal,124.0,no,1.0,flat,3.0,,0
+61.0,1,typical angina,120.0,260.0,less than 120mg/ml,ST-T wave abnormality,140.0,yes,3.6,flat,1.0,,0
+57.0,1,typical angina,110.0,201.0,less than 120mg/ml,ST-T wave abnormality,126.0,yes,1.5,flat,0.0,fixed defect,1
+60.0,0,typical angina,150.0,258.0,less than 120mg/ml,normal,,no,2.6,flat,2.0,,0
+63.0,0,typical angina,150.0,407.0,less than 120mg/ml,normal,154.0,no,4.0,flat,3.0,,0
+55.0,0,typical angina,128.0,205.0,less than 120mg/ml,left ventricular hypertrophy,130.0,yes,,flat,1.0,,0
+64.0,,typical angina,180.0,325.0,less than 120mg/ml,ST-T wave abnormality,154.0,yes,0.0,downsloping,0.0,reversible defect,1
+54.0,1,,110.0,239.0,less than 120mg/ml,ST-T wave abnormality,126.0,yes,2.8,flat,1.0,,0
+52.0,1,typical angina,128.0,204.0,greater than 120mg/ml,ST-T wave abnormality,156.0,yes,1.0,flat,0.0,normal,0
+51.0,1,typical angina,140.0,299.0,less than 120mg/ml,ST-T wave abnormality,173.0,yes,1.6,,0.0,,0
+62.0,0,non-anginal pain,130.0,263.0,less than 120mg/ml,ST-T wave abnormality,97.0,no,1.2,flat,1.0,,0
+59.0,1,asymptomatic,178.0,,less than 120mg/ml,normal,145.0,no,4.2,upsloping,0.0,,1
+,1,atypical angina,134.0,201.0,less than 120mg/ml,ST-T wave abnormality,158.0,no,0.8,downsloping,1.0,reversible defect,1
+42.0,0,typical angina,102.0,265.0,less than 120mg/ml,normal,122.0,no,0.6,flat,0.0,reversible defect,1
+59.0,1,typical angina,135.0,234.0,less than 120mg/ml,ST-T wave abnormality,161.0,no,0.5,flat,0.0,,1
+61.0,1,asymptomatic,134.0,234.0,less than 120mg/ml,ST-T wave abnormality,145.0,no,2.6,flat,,reversible defect,0
+42.0,0,typical angina,102.0,265.0,less than 120mg/ml,normal,,no,0.6,flat,0.0,reversible defect,1
+62.0,0,typical angina,140.0,,less than 120mg/ml,normal,160.0,no,3.6,upsloping,2.0,reversible defect,0
+59.0,1,non-anginal pain,126.0,218.0,greater than 120mg/ml,ST-T wave abnormality,134.0,no,,flat,1.0,fixed defect,0
+55.0,1,atypical angina,130.0,262.0,less than 120mg/ml,ST-T wave abnormality,155.0,no,0.0,downsloping,0.0,reversible defect,1
+64.0,1,typical angina,120.0,246.0,less than 120mg/ml,normal,96.0,yes,2.2,upsloping,1.0,reversible defect,0
+42.0,1,typical angina,140.0,226.0,less than 120mg/ml,ST-T wave abnormality,178.0,no,0.0,downsloping,0.0,reversible defect,1
+50.0,0,atypical angina,120.0,244.0,less than 120mg/ml,ST-T wave abnormality,162.0,no,1.1,downsloping,0.0,reversible defect,1
+62.0,1,typical angina,120.0,267.0,less than 120mg/ml,ST-T wave abnormality,99.0,yes,1.8,flat,2.0,,0
+50.0,1,typical angina,144.0,200.0,less than 120mg/ml,normal,126.0,yes,0.9,flat,0.0,,0
+50.0,1,non-anginal pain,140.0,233.0,less than 120mg/ml,ST-T wave abnormality,163.0,no,0.6,flat,1.0,,0
+58.0,0,atypical angina,136.0,319.0,greater than 120mg/ml,normal,152.0,no,0.0,downsloping,2.0,reversible defect,0
+35.0,1,typical angina,120.0,198.0,less than 120mg/ml,ST-T wave abnormality,130.0,yes,1.6,flat,0.0,,0
+45.0,1,typical angina,104.0,208.0,less than 120mg/ml,normal,148.0,yes,3.0,flat,0.0,reversible defect,1
+66.0,1,typical angina,112.0,212.0,less than 120mg/ml,normal,132.0,yes,0.1,downsloping,1.0,reversible defect,0
+46.0,1,typical angina,120.0,249.0,less than 120mg/ml,normal,144.0,no,0.8,downsloping,0.0,,0
+65.0,1,typical angina,135.0,254.0,less than 120mg/ml,normal,127.0,no,2.8,flat,1.0,,0
+47.0,1,non-anginal pain,130.0,253.0,less than 120mg/ml,ST-T wave abnormality,179.0,no,0.0,downsloping,,,1
+59.0,1,asymptomatic,134.0,204.0,less than 120mg/ml,ST-T wave abnormality,162.0,no,0.8,downsloping,2.0,reversible defect,0
+38.0,1,asymptomatic,,231.0,less than 120mg/ml,ST-T wave abnormality,182.0,yes,3.8,flat,0.0,,0
+39.0,1,typical angina,118.0,219.0,less than 120mg/ml,ST-T wave abnormality,140.0,no,1.2,flat,0.0,,0
+58.0,1,typical angina,146.0,218.0,less than 120mg/ml,ST-T wave abnormality,105.0,no,2.0,flat,1.0,,0
+44.0,1,atypical angina,120.0,263.0,less than 120mg/ml,ST-T wave abnormality,173.0,no,0.0,downsloping,,,1
+54.0,1,typical angina,140.0,,less than 120mg/ml,ST-T wave abnormality,160.0,no,1.2,downsloping,0.0,reversible defect,1
+61.0,0,typical angina,130.0,330.0,less than 120mg/ml,normal,169.0,no,0.0,downsloping,0.0,reversible defect,0
+,1,typical angina,130.0,131.0,less than 120mg/ml,,115.0,yes,1.2,flat,1.0,,0
+54.0,1,typical angina,110.0,206.0,less than 120mg/ml,normal,108.0,yes,0.0,flat,1.0,reversible defect,0
+42.0,1,non-anginal pain,120.0,240.0,greater than 120mg/ml,ST-T wave abnormality,,no,0.8,upsloping,0.0,,1
+54.0,1,typical angina,124.0,266.0,less than 120mg/ml,normal,109.0,yes,2.2,flat,1.0,,0
+60.0,1,typical angina,130.0,206.0,less than 120mg/ml,normal,132.0,yes,2.4,flat,2.0,,0
+65.0,1,typical angina,135.0,254.0,less than 120mg/ml,normal,127.0,no,2.8,flat,1.0,,0
+40.0,1,typical angina,152.0,223.0,,ST-T wave abnormality,181.0,no,,downsloping,0.0,,0
+51.0,0,non-anginal pain,140.0,308.0,less than 120mg/ml,normal,142.0,no,1.5,downsloping,1.0,reversible defect,1
+38.0,1,asymptomatic,120.0,231.0,less than 120mg/ml,ST-T wave abnormality,182.0,yes,3.8,flat,0.0,,0
+42.0,1,non-anginal pain,130.0,180.0,less than 120mg/ml,ST-T wave abnormality,,no,0.0,downsloping,0.0,reversible defect,1
+56.0,1,atypical angina,120.0,240.0,less than 120mg/ml,ST-T wave abnormality,169.0,no,0.0,upsloping,,reversible defect,1
+43.0,1,non-anginal pain,130.0,315.0,less than 120mg/ml,ST-T wave abnormality,162.0,no,1.9,downsloping,1.0,reversible defect,1
+64.0,1,non-anginal pain,140.0,335.0,less than 120mg/ml,ST-T wave abnormality,158.0,no,0.0,downsloping,0.0,reversible defect,0
+53.0,1,typical angina,142.0,226.0,less than 120mg/ml,normal,111.0,yes,0.0,downsloping,,,1
+49.0,0,atypical angina,134.0,271.0,less than 120mg/ml,ST-T wave abnormality,162.0,no,0.0,flat,0.0,reversible defect,1
+57.0,0,typical angina,140.0,241.0,,,123.0,yes,0.2,flat,0.0,,0
+,0,non-anginal pain,136.0,196.0,less than 120mg/ml,normal,,no,0.1,flat,0.0,reversible defect,1
+69.0,0,asymptomatic,140.0,239.0,less than 120mg/ml,ST-T wave abnormality,151.0,no,1.8,downsloping,2.0,reversible defect,1
+65.0,1,typical angina,120.0,177.0,,ST-T wave abnormality,,no,,downsloping,0.0,,1
+66.0,0,typical angina,178.0,228.0,greater than 120mg/ml,ST-T wave abnormality,165.0,yes,1.0,flat,2.0,,0
+,1,asymptomatic,120.0,193.0,less than 120mg/ml,normal,162.0,no,1.9,flat,0.0,,1
+67.0,0,non-anginal pain,152.0,277.0,less than 120mg/ml,ST-T wave abnormality,172.0,no,0.0,downsloping,1.0,reversible defect,1
+54.0,0,non-anginal pain,160.0,201.0,less than 120mg/ml,ST-T wave abnormality,163.0,no,0.0,downsloping,1.0,reversible defect,1
+70.0,1,typical angina,145.0,174.0,less than 120mg/ml,ST-T wave abnormality,125.0,yes,2.6,upsloping,0.0,,0
+57.0,1,typical angina,132.0,207.0,less than 120mg/ml,ST-T wave abnormality,168.0,yes,0.0,downsloping,0.0,,1
+67.0,1,typical angina,160.0,286.0,less than 120mg/ml,normal,108.0,yes,1.5,,3.0,reversible defect,0
+,0,non-anginal pain,130.0,263.0,less than 120mg/ml,ST-T wave abnormality,97.0,no,1.2,flat,1.0,,0
+54.0,0,non-anginal pain,135.0,304.0,greater than 120mg/ml,ST-T wave abnormality,170.0,no,0.0,downsloping,0.0,reversible defect,1
+45.0,0,typical angina,138.0,236.0,less than 120mg/ml,normal,152.0,yes,0.2,flat,0.0,reversible defect,1
+53.0,0,typical angina,130.0,264.0,less than 120mg/ml,normal,143.0,no,0.4,flat,0.0,reversible defect,1
+62.0,,non-anginal pain,130.0,231.0,less than 120mg/ml,ST-T wave abnormality,,no,1.8,flat,3.0,,1
+49.0,0,typical angina,130.0,269.0,less than 120mg/ml,ST-T wave abnormality,163.0,no,0.0,downsloping,0.0,,1
+50.0,1,non-anginal pain,140.0,233.0,less than 120mg/ml,ST-T wave abnormality,163.0,no,0.6,flat,1.0,,0
+65.0,0,non-anginal pain,140.0,417.0,greater than 120mg/ml,normal,157.0,no,0.8,downsloping,1.0,reversible defect,1
+69.0,0,asymptomatic,140.0,239.0,less than 120mg/ml,ST-T wave abnormality,151.0,no,1.8,downsloping,2.0,reversible defect,1
+52.0,0,non-anginal pain,136.0,196.0,less than 120mg/ml,normal,169.0,no,0.1,flat,0.0,reversible defect,1
+58.0,0,typical angina,100.0,248.0,less than 120mg/ml,normal,122.0,no,1.0,flat,0.0,reversible defect,1
+52.0,1,typical angina,108.0,233.0,greater than 120mg/ml,ST-T wave abnormality,147.0,no,0.1,downsloping,3.0,,1
+57.0,0,typical angina,140.0,241.0,less than 120mg/ml,ST-T wave abnormality,123.0,yes,0.2,flat,0.0,,0
+44.0,0,non-anginal pain,108.0,141.0,less than 120mg/ml,ST-T wave abnormality,175.0,no,0.6,flat,0.0,reversible defect,1
+76.0,0,non-anginal pain,140.0,197.0,less than 120mg/ml,left ventricular hypertrophy,116.0,no,1.1,flat,0.0,reversible defect,1
+58.0,1,typical angina,,259.0,less than 120mg/ml,normal,130.0,yes,3.0,flat,2.0,,0
+60.0,0,non-anginal pain,120.0,178.0,greater than 120mg/ml,ST-T wave abnormality,96.0,no,0.0,downsloping,0.0,reversible defect,1
+53.0,1,typical angina,140.0,203.0,greater than 120mg/ml,normal,155.0,yes,,upsloping,0.0,,0
+52.0,1,atypical angina,,325.0,less than 120mg/ml,ST-T wave abnormality,172.0,no,0.2,downsloping,0.0,reversible defect,1
+38.0,1,non-anginal pain,,175.0,less than 120mg/ml,ST-T wave abnormality,173.0,no,0.0,downsloping,4.0,reversible defect,1
+,,non-anginal pain,172.0,199.0,greater than 120mg/ml,ST-T wave abnormality,162.0,no,0.5,downsloping,0.0,,1
+52.0,1,asymptomatic,118.0,186.0,less than 120mg/ml,normal,190.0,no,0.0,flat,0.0,fixed defect,1
+51.0,1,non-anginal pain,125.0,245.0,greater than 120mg/ml,,166.0,no,2.4,flat,0.0,reversible defect,1
+43.0,1,typical angina,110.0,211.0,less than 120mg/ml,ST-T wave abnormality,161.0,no,0.0,downsloping,0.0,,1
+39.0,1,typical angina,118.0,219.0,less than 120mg/ml,,140.0,no,1.2,flat,0.0,,0
+63.0,0,typical angina,108.0,269.0,less than 120mg/ml,ST-T wave abnormality,169.0,yes,1.8,flat,2.0,reversible defect,0
+52.0,1,atypical angina,128.0,205.0,greater than 120mg/ml,ST-T wave abnormality,184.0,no,0.0,downsloping,0.0,reversible defect,1
+44.0,1,typical angina,110.0,197.0,less than 120mg/ml,normal,177.0,no,0.0,downsloping,1.0,reversible defect,0
+45.0,1,typical angina,142.0,309.0,less than 120mg/ml,normal,147.0,yes,0.0,flat,3.0,,0
+57.0,1,typical angina,140.0,192.0,less than 120mg/ml,ST-T wave abnormality,148.0,no,0.4,flat,0.0,fixed defect,1
+39.0,1,typical angina,118.0,219.0,less than 120mg/ml,ST-T wave abnormality,,no,1.2,flat,0.0,,0
+67.0,0,typical angina,106.0,223.0,less than 120mg/ml,ST-T wave abnormality,142.0,no,0.3,downsloping,2.0,,1
+64.0,1,typical angina,128.0,263.0,less than 120mg/ml,,105.0,yes,0.2,flat,1.0,,1
+59.0,1,typical angina,135.0,234.0,less than 120mg/ml,ST-T wave abnormality,161.0,no,0.5,flat,0.0,,1
+62.0,1,non-anginal pain,130.0,231.0,less than 120mg/ml,ST-T wave abnormality,146.0,no,1.8,flat,3.0,,1
+55.0,0,typical angina,180.0,327.0,less than 120mg/ml,left ventricular hypertrophy,117.0,yes,3.4,flat,0.0,reversible defect,0
+57.0,1,atypical angina,154.0,232.0,less than 120mg/ml,normal,164.0,no,0.0,downsloping,1.0,reversible defect,0
+60.0,1,typical angina,140.0,293.0,less than 120mg/ml,normal,170.0,no,1.2,flat,2.0,,0
+71.0,0,atypical angina,160.0,302.0,less than 120mg/ml,ST-T wave abnormality,162.0,,0.4,downsloping,2.0,reversible defect,1
+56.0,1,atypical angina,120.0,236.0,less than 120mg/ml,ST-T wave abnormality,178.0,no,0.8,downsloping,0.0,reversible defect,1
+60.0,1,,117.0,230.0,greater than 120mg/ml,ST-T wave abnormality,160.0,yes,1.4,downsloping,2.0,,0
+50.0,0,typical angina,110.0,254.0,less than 120mg/ml,normal,159.0,no,0.0,downsloping,0.0,reversible defect,1
+43.0,1,typical angina,132.0,247.0,greater than 120mg/ml,normal,143.0,yes,0.1,flat,4.0,,0
+59.0,,typical angina,110.0,239.0,less than 120mg/ml,normal,142.0,yes,1.2,flat,1.0,,0
+44.0,1,atypical angina,120.0,263.0,less than 120mg/ml,ST-T wave abnormality,173.0,no,0.0,downsloping,0.0,,1
+56.0,0,typical angina,134.0,409.0,less than 120mg/ml,normal,150.0,,1.9,flat,2.0,,0
+54.0,1,typical angina,120.0,188.0,less than 120mg/ml,ST-T wave abnormality,113.0,no,1.4,flat,1.0,,0
+42.0,1,typical angina,136.0,315.0,less than 120mg/ml,ST-T wave abnormality,125.0,yes,1.8,flat,0.0,fixed defect,0
+67.0,1,typical angina,125.0,254.0,greater than 120mg/ml,ST-T wave abnormality,163.0,no,0.2,,2.0,,0
+64.0,1,typical angina,145.0,212.0,less than 120mg/ml,normal,132.0,no,2.0,flat,2.0,fixed defect,0
+42.0,1,typical angina,140.0,226.0,less than 120mg/ml,ST-T wave abnormality,,no,0.0,downsloping,0.0,reversible defect,1
+66.0,1,typical angina,112.0,212.0,less than 120mg/ml,normal,132.0,yes,0.1,downsloping,1.0,reversible defect,0
+52.0,1,typical angina,108.0,233.0,greater than 120mg/ml,ST-T wave abnormality,147.0,no,0.1,downsloping,3.0,,1
+51.0,0,non-anginal pain,140.0,308.0,less than 120mg/ml,normal,142.0,no,1.5,downsloping,1.0,reversible defect,1
+55.0,0,typical angina,128.0,205.0,less than 120mg/ml,left ventricular hypertrophy,130.0,yes,,flat,1.0,,0
+58.0,1,non-anginal pain,140.0,211.0,greater than 120mg/ml,normal,165.0,no,0.0,downsloping,0.0,reversible defect,1
+56.0,1,asymptomatic,120.0,193.0,less than 120mg/ml,normal,162.0,no,1.9,flat,0.0,,1
+42.0,1,atypical angina,120.0,295.0,less than 120mg/ml,,162.0,no,0.0,downsloping,0.0,reversible defect,1
+40.0,1,typical angina,152.0,223.0,less than 120mg/ml,ST-T wave abnormality,181.0,no,0.0,downsloping,0.0,,0
+51.0,1,typical angina,140.0,299.0,less than 120mg/ml,ST-T wave abnormality,173.0,yes,1.6,downsloping,0.0,,0
+45.0,1,atypical angina,128.0,308.0,less than 120mg/ml,normal,170.0,no,0.0,downsloping,0.0,reversible defect,1
+48.0,,atypical angina,110.0,229.0,less than 120mg/ml,ST-T wave abnormality,168.0,,1.0,upsloping,0.0,,0
+58.0,1,typical angina,,318.0,less than 120mg/ml,left ventricular hypertrophy,140.0,no,4.4,upsloping,3.0,fixed defect,0
+44.0,0,non-anginal pain,108.0,141.0,less than 120mg/ml,ST-T wave abnormality,175.0,no,0.6,flat,0.0,reversible defect,1
+58.0,1,typical angina,128.0,216.0,less than 120mg/ml,normal,131.0,yes,2.2,flat,3.0,,0
+65.0,1,asymptomatic,138.0,282.0,greater than 120mg/ml,normal,174.0,no,1.4,flat,1.0,reversible defect,0
+53.0,1,,123.0,282.0,less than 120mg/ml,ST-T wave abnormality,95.0,yes,2.0,flat,2.0,,0
+41.0,1,typical angina,110.0,172.0,less than 120mg/ml,normal,158.0,no,0.0,downsloping,0.0,,0
+47.0,,typical angina,112.0,204.0,less than 120mg/ml,ST-T wave abnormality,143.0,no,0.1,downsloping,0.0,reversible defect,1
+59.0,1,atypical angina,140.0,221.0,less than 120mg/ml,ST-T wave abnormality,164.0,yes,0.0,downsloping,0.0,reversible defect,1
+60.0,1,typical angina,125.0,258.0,less than 120mg/ml,normal,141.0,yes,,flat,1.0,,0
+47.0,1,typical angina,,275.0,less than 120mg/ml,normal,,yes,1.0,flat,1.0,reversible defect,0
+50.0,,typical angina,110.0,254.0,less than 120mg/ml,normal,159.0,no,0.0,downsloping,0.0,reversible defect,1
+54.0,1,typical angina,120.0,188.0,less than 120mg/ml,ST-T wave abnormality,113.0,no,1.4,flat,1.0,,0
